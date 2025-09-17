@@ -15,6 +15,8 @@
 - **Process:** Simple script to generate ranklist URLs
 - **Template:** `https://www.ipuranklist.com/ranklist/{Course}?batch=22&insti={College ID}&sem=0&branch={Branch}`
 - **Output:** List of valid ranklist URLs for scraping
+done
+
 
 ### **Phase 3: Enrollment Number Extraction** 📋
 - **Target:** Generated ranklist URLs
