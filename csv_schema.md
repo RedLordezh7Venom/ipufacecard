@@ -1,6 +1,6 @@
 Schema : 
 ```
-Course,Branch,College Name,College ID
+Course,Branch,College,Collegeid
 ```
 
 Example:
