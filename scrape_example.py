@@ -1,32 +1,44 @@
-import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import csv
+import time
 
-# URL of the page to scrape
+# Set up headless Chrome options
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Run in headless mode (no GUI)
+chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--no-sandbox")
+
+# Initialize WebDriver
+driver = webdriver.Chrome(options=chrome_options)
+
+# Target URL
 url = "https://www.ipuranklist.com/ranklist/mba?batch=20&branch=GENERAL&insti=123&sem=0"
 
-# Send HTTP request to the URL
-response = requests.get(url)
+# Open the page
+driver.get(url)
 
-# Check if request was successful (status code 200)
-if response.status_code == 200:
-    print("Page successfully fetched.")
-else:
-    print(f"Failed to fetch the page. Status code: {response.status_code}")
-    exit()
+# Optional: wait for JavaScript content to load
+time.sleep(5)  # You can use WebDriverWait for smarter waiting
 
-# Parse the HTML content using BeautifulSoup
-soup = BeautifulSoup(response.content, 'html.parser')
+# Get page source after rendering
+html = driver.page_source
 
-# Find all <td> tags with the class "limit-char" containing the enrollment numbers
+# Close the driver
+driver.quit()
+
+# Parse HTML with BeautifulSoup
+soup = BeautifulSoup(html, 'html.parser')
+
+# Find all <td> tags with class "limit-char"
 enrollment_numbers = soup.find_all('td', class_='limit-char')
 
-# Open a CSV file to save the data
+# Write data to CSV
 with open('enrollment_numbers.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["Enrollment Number"])  # Write the header
+    writer.writerow(["Enrollment Number"])
 
-    # Loop through each enrollment number and write it to the CSV file
     for number in enrollment_numbers:
         enrollment_number = number.get_text(strip=True)
         writer.writerow([enrollment_number])
