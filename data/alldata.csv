@@ -36,7 +36,6 @@ ba,JMC,USMC,203
 ba,JMC,VIPS,177
 ba,JMC,VIPS,298
 ba,LA,USLA,204
-Course,Branch,College,Collegeid
 bba,B&I,BLSITM,205
 bba,B&I,DIRD,124
 bba,B&I,MSI,149
@@ -115,7 +114,6 @@ bba,TTM,TIPS,206
 bba,TTM,TIPS,240
 bba,TTM,VIPS,177
 bba,TTM,VIPS,298
-Course,Branch,College,Collegeid
 bed,GENERAL,AIE,102
 bed,GENERAL,AIE,108
 bed,GENERAL,BKIET,966
@@ -154,7 +152,6 @@ bed,MR,TTISE,521
 bed,MR,NIMH,178
 bed,MR,SAS,354
 bed,VI,AIRSR,523
-Course,Branch,College,Collegeid
 btech,AIDS,ADGITM - E,962
 btech,AIDS,ADGITM - M,156
 btech,AIDS,DTC - M,180
@@ -297,7 +294,6 @@ btech,ME,SBIT,899
 btech,MET,DITE,702
 btech,PE,NPTI,153
 btech,TE,DITE,702
-Course,Branch,College,Collegeid
 bvoc,A,GBPIT,220
 bvoc,AA,MBIT,219
 bvoc,CT,ABIT,267
@@ -315,7 +311,6 @@ bvoc,SD,BPIBS,114
 bvoc,SD,GNDIT,265
 bvoc,SD,IIT,501
 bvoc,SD,KGIT,264
-Course,Branch,College,Collegeid
 llb,BA&LLB,ALS,103
 llb,BA&LLB,BLSITM,205
 llb,BA&LLB,CPJCHS,215
@@ -340,7 +335,6 @@ llb,CPHM,DIHRM,409
 llb,CRIMINOLOGY,LNJNNICFC,185
 llb,ECONOMICS,USHSS,216
 llb,ENGLISH,USHSS,216
-Course,Branch,College,Collegeid
 mba,A,USMS,166
 mba,DM,CDMS,263
 mba,FA,USMS,166
@@ -371,7 +365,6 @@ mba,GENERAL,USMS,166
 mba,IB,GIBS,191
 mba,IT,CDAC,118
 mba,WEEKEND,USMS,166
-Course,Branch,College,Collegeid
 mplan,MPLAN,USAP,173
 bhmct,BHMCT,BHIHMCT,110
 mca,DUALDEGREE,GIBS,191
