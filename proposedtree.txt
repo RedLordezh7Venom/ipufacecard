@@ -1,0 +1,54 @@
+mlops_course_pipeline/
+│
+├───.gitignore
+├───README.md
+├───LICENSE
+│
+├───configs/                         # Configuration files (YAML/JSON)
+│   ├── scraping_config.yaml
+│   └── db_config.yaml
+│
+├───data/                            # Raw and processed data storage
+│   ├── raw/
+│   │   └── courses/                 # Raw course CSVs
+│   │       ├── ba.csv
+│   │       ├── bba.csv
+│   │       └── ...
+│   ├── interim/
+│   │   └── enrollment_links.csv     # Link generation output
+│   ├── processed/
+│   │   └── alldata.csv              # Final merged dataset
+│   └── external/                    # Student pictures or other files
+│       └── student_images/
+│
+├───notebooks/                       # Jupyter notebooks for exploration
+│   └── eda_enrollment.ipynb
+│
+├───schemas/                         # Data schemas and metadata
+│   └── csv_schema.md
+│
+├───src/                             # All source code
+│   ├── scraping/                    # Scraping logic (courses, enrollments, images)
+│   │   ├── course_scraper.py
+│   │   ├── enrollment_scraper.py
+│   │   └── student_image_scraper.py
+│   │
+│   ├── pipeline/                    # Pipeline orchestration logic
+│   │   └── run_pipeline.py
+│   │
+│   ├── db/                          # DB utilities
+│   │   ├── db_connector.py
+│   │   └── push_to_db.py
+│   │
+│   └── utils/                       # Reusable utilities (e.g., logging, validation)
+│       ├── logger.py
+│       └── helpers.py
+│
+├───tests/                           # Unit tests
+│   ├── test_course_scraper.py
+│   ├── test_enrollment_scraper.py
+│   └── test_db_connector.py
+│
+├───Dockerfile                       # Optional: for containerization
+├───requirements.txt                 # Python dependencies
+└───scraping_pipeline.md            # Pipeline description doc
