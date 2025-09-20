@@ -10,28 +10,17 @@ chrome_options.add_argument("--headless")  # Run in headless mode (no GUI)
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--no-sandbox")
 
-# Initialize WebDriver
 driver = webdriver.Chrome(options=chrome_options)
-
-# Target URL
 url = "https://www.ipuranklist.com/ranklist/mba?batch=20&branch=GENERAL&insti=123&sem=0"
 
 # Open the page
 driver.get(url)
-
-# Optional: wait for JavaScript content to load
 time.sleep(5)  # You can use WebDriverWait for smarter waiting
-
-# Get page source after rendering
 html = driver.page_source
-
-# Close the driver
 driver.quit()
 
-# Parse HTML with BeautifulSoup
 soup = BeautifulSoup(html, 'html.parser')
 
-# Find all <td> tags with class "limit-char"
 enrollment_numbers = soup.find_all('td', class_='limit-char')
 
 # Write data to CSV
