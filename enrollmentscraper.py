@@ -23,7 +23,7 @@ chrome_options.add_argument("--no-sandbox")
 driver = webdriver.Chrome(options=chrome_options)
 
 # Output CSV
-output_file = 'enrollments23.csv'
+output_file = 'enrollments23_2.csv'
 with open(output_file, mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Enrollment Number", "Course", "Batch", "College ID", "Branch"])
