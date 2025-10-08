@@ -1,5 +1,7 @@
 # 🚀 Complete Data Scraping Pipeline
 
+
+CURRENT STEP : #4 : scraping image urls
 ### **Phase 1: Data Standardization** 🔧
 - **Input:** Raw CSV with inconsistent formatting
 - **Process:** Use ChatGPT/AI to clean and standardize data
@@ -90,6 +92,9 @@ def scrape_enrollment_numbers(ranklist_urls):
     return enrollment_data
 ```
 
+--------------------Done-------------------
+Now onto : 
+CURRENT STEP
 ### **Step 4: Profile Image Scraper**
 ```python
 def scrape_student_profiles(enrollment_numbers):
