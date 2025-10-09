@@ -17,7 +17,7 @@ from extract_student_image import extract_student_image_and_name
 with open('enrollments22.csv', mode='r') as file:
     reader = csv.reader(file)
     for row in reader:
-        image,image = extract_student_image_and_name(row[0])
+        image,name = extract_student_image_and_name(row[0])
         college = row[3]
         course = row[1]
         batch = row[2]
@@ -40,3 +40,5 @@ with open('enrollments22.csv', mode='r') as file:
         with open('data.json', 'a') as f:
             json.dump(data, f)
             f.write('\n')
+
+
