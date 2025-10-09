@@ -42,11 +42,11 @@ done
 - **Final Schema:**
 ```json
 {
-  "id": "unique_id",
   "name": "Student Name",
   "image": "profile_image_url",
   "college": "College Name",
   "course": "Course Name",
+  "batch":"Enrollment year",
   "branch": "Branch Code",
   "enrollment": "Enrollment Number",
   "elo": 1200,
