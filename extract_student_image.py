@@ -45,16 +45,31 @@ def extract_student_image_and_name(student_id):
         # Extract the name - try multiple selectors
         name = None
         try:
-            # Try to find the name in the table - look for the first td after "Name" label
-            name_element = driver.find_element(By.XPATH, "//td[contains(text(), 'Name')]/following-sibling::td[1]")
+            # Try to find the name - look for td with uppercase text pattern (student names are in all caps)
+            # Exclude enrollment numbers by checking for alphabetic characters
+            name_element = driver.find_element(By.XPATH, "//td[string-length(text()) > 3 and string-length(text()) < 50 and contains(translate(text(), '0123456789', ''), text())]")
             name = name_element.text.strip()
-            print(f"Name found: {name}")
+            
+            # Verify it's not an enrollment number (should contain letters)
+            if name.replace(' ', '').isalpha() and len(name) > 5:
+                print(f"Name found: {name}")
+            else:
+                raise Exception("Not a valid name")
         except:
             try:
-                # Alternative: Look for any td that contains a name-like pattern (all caps)
-                name_element = driver.find_element(By.XPATH, "//table//td[string-length(text()) > 5 and string-length(text()) < 50]")
-                name = name_element.text.strip()
-                print(f"Name found (alternative): {name}")
+                # Alternative: Look for td elements and filter by content
+                all_tds = driver.find_elements(By.TAG_NAME, "td")
+                for td in all_tds:
+                    text = td.text.strip()
+                    # Check if it's a name (contains only letters and spaces, length > 5)
+                    if text and len(text) > 5 and len(text) < 50:
+                        # Remove spaces and check if alphabetic
+                        if text.replace(' ', '').isalpha():
+                            name = text
+                            print(f"Name found (alternative): {name}")
+                            break
+                if not name:
+                    raise Exception("Name not found")
             except:
                 print("Warning: Could not extract name")
                 name = "Unknown"
