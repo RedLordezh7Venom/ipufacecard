@@ -37,19 +37,33 @@ def extract_student_image_and_name(student_id):
         img_element = wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "img[src*='assets.ipuranklist.com']"))
         )
-        name_element = wait.until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "td[_ngcontent-grc-c2]")
-        )
+        
         # Extract the image URL
         image_url = img_element.get_attribute('src')
-        name = name_element.text
         print(f"Image URL found: {image_url}")
+        
+        # Extract the name - try multiple selectors
+        name = None
+        try:
+            # Try to find the name in the table - look for the first td after "Name" label
+            name_element = driver.find_element(By.XPATH, "//td[contains(text(), 'Name')]/following-sibling::td[1]")
+            name = name_element.text.strip()
+            print(f"Name found: {name}")
+        except:
+            try:
+                # Alternative: Look for any td that contains a name-like pattern (all caps)
+                name_element = driver.find_element(By.XPATH, "//table//td[string-length(text()) > 5 and string-length(text()) < 50]")
+                name = name_element.text.strip()
+                print(f"Name found (alternative): {name}")
+            except:
+                print("Warning: Could not extract name")
+                name = "Unknown"
         
         return image_url, name
         
     except Exception as e:
         print(f"Error: {e}")
-        return None
+        return None, None
         
     finally:
         if driver:
