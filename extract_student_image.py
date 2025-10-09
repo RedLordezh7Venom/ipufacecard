@@ -7,7 +7,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import requests
 
-def extract_student_image(student_id):
+
+def extract_student_image_and_name(student_id):
     """
     Extract student image URL from IPU Ranklist website using Selenium
     """
@@ -36,12 +37,15 @@ def extract_student_image(student_id):
         img_element = wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "img[src*='assets.ipuranklist.com']"))
         )
-        
+        name_element = wait.until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "td[_ngcontent-grc-c2]")
+        )
         # Extract the image URL
         image_url = img_element.get_attribute('src')
+        name = name_element.text
         print(f"Image URL found: {image_url}")
         
-        return image_url
+        return image_url, name
         
     except Exception as e:
         print(f"Error: {e}")
@@ -70,9 +74,9 @@ def download_image(image_url, filename='student_photo.jpg'):
 # Example usage
 if __name__ == "__main__":
     student_id = "09518241723"  # Replace with any student ID
-    image_url = extract_student_image(student_id)
+    image_url, name = extract_student_image_and_name(student_id)
     
     if image_url:
-        print(image_url)
+        print(image_url,name)
     else:
         print("Failed to extract image URL")
