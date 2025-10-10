@@ -14,3 +14,1363 @@ IMAGE AVAILABILITY SCAN - 2025-10-10 07:10:23
 
 [3] Testing: BA | Batch 22 | College 177 | ENGLISH
     Enrollment: 00917721722
+    ✅ IMAGE FOUND: YUVNA TANDON
+    URL: https://assets.ipuranklist.com/821964e8-88ab-45be-8b75-d5f0d3218d8d.jpeg
+
+[4] Testing: BA | Batch 22 | College 116 | JMC
+    Enrollment: 01811602422
+    ✅ IMAGE FOUND: ANANYA JHA
+    URL: https://assets.ipuranklist.com/d5511310-1162-4bb7-b85c-5a7c6ba071ae.jpeg
+
+[5] Testing: BA | Batch 22 | College 511 | JMC
+    Enrollment: 04451102422
+    ✅ IMAGE FOUND: TWINKLE GARG
+    URL: https://assets.ipuranklist.com/c2c6ea01-bec3-482f-ae56-a4ec778bad1e.jpeg
+
+[6] Testing: BA | Batch 22 | College 912 | JMC
+    Enrollment: 01491202422
+    ✅ IMAGE FOUND: NIKITA KANDPAL
+    URL: https://assets.ipuranklist.com/f4847cc7-f0c6-4a13-a0f7-eafd96eec8e3.jpeg
+
+[7] Testing: BA | Batch 22 | College 901 | JMC
+    Enrollment: 00590102422
+    ✅ IMAGE FOUND: ANAMIKA PRIYA
+    URL: https://assets.ipuranklist.com/6199f6b0-b73a-4d37-9a38-69f9a2f4943b.jpeg
+
+[8] Testing: BA | Batch 22 | College 142 | JMC
+    Enrollment: 01114202422
+    ✅ IMAGE FOUND: TAVISHI GOSAIN
+    URL: https://assets.ipuranklist.com/81ca4450-79d6-4725-adf7-4d3d26633268.jpeg
+
+[9] Testing: BA | Batch 22 | College 214 | JMC
+    Enrollment: 02621402422
+    ✅ IMAGE FOUND: TANYA BATRA
+    URL: https://assets.ipuranklist.com/4929f6f1-98f2-4b3e-a9aa-7047cb2acc34.jpeg
+
+[10] Testing: BA | Batch 22 | College 255 | JMC
+    Enrollment: 00325502422
+    ✅ IMAGE FOUND: ARPANA JHA
+    URL: https://assets.ipuranklist.com/da976a61-4954-4448-9e5c-8691466fafb8.jpeg
+
+[11] Testing: BA | Batch 22 | College 274 | JMC
+    Enrollment: 00827402422
+    ❌ NO IMAGE AVAILABLE
+
+[12] Testing: BA | Batch 22 | College 192 | JMC
+    Enrollment: 00219202422
+    ✅ IMAGE FOUND: MANISHA SHAH
+    URL: https://assets.ipuranklist.com/818d61af-4757-4751-a699-8fb88b654342.jpeg
+
+[13] Testing: BA | Batch 22 | College 147 | JMC
+    Enrollment: 03114702422
+    ✅ IMAGE FOUND: SHIVIKA MAHAJAN
+    URL: https://assets.ipuranklist.com/2eae7e11-b21a-4061-ae34-b1cd20f180cd.jpeg
+
+[14] Testing: BA | Batch 22 | College 611 | JMC
+    Enrollment: 02661102422
+    ✅ IMAGE FOUND: ANSH MANGHA
+    URL: https://assets.ipuranklist.com/723c760b-1531-45fd-b94d-6103646a50dc.jpeg
+
+[15] Testing: BA | Batch 22 | College 151 | JMC
+    Enrollment: 01515102422
+    ✅ IMAGE FOUND: MANSI AGGARWAL
+    URL: https://assets.ipuranklist.com/980b2f41-527b-44ee-a473-9d67f52611e3.jpeg
+
+[16] Testing: BA | Batch 22 | College 170 | JMC
+    Enrollment: 35917002422
+    ❌ NO IMAGE AVAILABLE
+
+[17] Testing: BA | Batch 22 | College 213 | JMC
+    Enrollment: 36221302422
+    ❌ NO IMAGE AVAILABLE
+
+[18] Testing: BA | Batch 22 | College 206 | JMC
+    Enrollment: 01420602422
+    ✅ IMAGE FOUND: DIVYA DUA
+    URL: https://assets.ipuranklist.com/547aa0f1-9d93-4604-9694-4c48f7e63fd2.jpeg
+
+[19] Testing: BA | Batch 22 | College 240 | JMC
+    Enrollment: 03324002422
+    ✅ IMAGE FOUND: VANISHA BHATNAGAR
+    URL: https://assets.ipuranklist.com/5ebcc75e-e7f8-4078-a5d1-b8de78282f74.jpeg
+
+[20] Testing: BA | Batch 22 | College 177 | JMC
+    Enrollment: 08317702422
+    ✅ IMAGE FOUND: ISHITA ARORA
+    URL: https://assets.ipuranklist.com/5cce5473-31d5-4fb0-b05b-7aa7c1409b0d.jpeg
+
+[21] Testing: BA | Batch 22 | College 298 | JMC
+    Enrollment: 08529802422
+    ✅ IMAGE FOUND: ANVI JAIN
+    URL: https://assets.ipuranklist.com/20dc2a80-8f53-4f7e-90fd-1fd0f55e12f7.jpeg
+
+[22] Testing: BBA | Batch 22 | College 149 | B%26I
+    Enrollment: 08614901822
+    ✅ IMAGE FOUND: PUNISHKA GAMBHIR
+    URL: https://assets.ipuranklist.com/75b0419f-92e2-4788-b354-6f70809f6c17.jpeg
+
+[23] Testing: BBA | Batch 22 | College 212 | B%26I
+    Enrollment: 03921201822
+    ✅ IMAGE FOUND: TANISHA SHARMA
+    URL: https://assets.ipuranklist.com/9da8ab3a-257c-43a4-a30a-9248aa3ab9d0.jpeg
+
+[24] Testing: BBA | Batch 22 | College 902 | B%26I
+    Enrollment: 01290201822
+    ✅ IMAGE FOUND: RACHITA GOEL
+    URL: https://assets.ipuranklist.com/1cbfc7b3-09da-4ffd-8f11-a4b72efe4258.jpeg
+
+[25] Testing: BBA | Batch 22 | College 215 | CAM
+    Enrollment: 00721501922
+    ✅ IMAGE FOUND: MEHAK BAJETHA
+    URL: https://assets.ipuranklist.com/41bea2d6-635d-47db-a8fc-1e55612b7766.jpeg
+
+[26] Testing: BBA | Batch 22 | College 242 | CAM
+    Enrollment: 80124201922
+    ✅ IMAGE FOUND: AMAN TIWARI
+    URL: https://assets.ipuranklist.com/01e66ee9-97d9-410b-87b2-796671334fc1.jpeg
+
+[27] Testing: BBA | Batch 22 | College 134 | CAM
+    Enrollment: 70113401922
+    ✅ IMAGE FOUND: PRATEEK GARG
+    URL: https://assets.ipuranklist.com/1e49f07f-b095-46de-8655-ef568d9b7bb0.jpeg
+
+[28] Testing: BBA | Batch 22 | College 210 | CAM
+    Enrollment: 01621001922
+    ✅ IMAGE FOUND: ARJUN SHARMA
+    URL: https://assets.ipuranklist.com/5dd355b2-7b22-4da7-922e-ac94c4989283.jpeg
+
+[29] Testing: BBA | Batch 22 | College 505 | G
+    Enrollment: 00650501722
+    ✅ IMAGE FOUND: ANJALI GUPTA
+    URL: https://assets.ipuranklist.com/8d1da0d0-0311-4ded-b3b0-049f66709886.jpeg
+
+[30] Testing: BBA | Batch 22 | College 612 | G
+    Enrollment: 05161201722
+    ✅ IMAGE FOUND: ASHMIT KUMAR
+    URL: https://assets.ipuranklist.com/e43bd794-9d72-4d30-9143-9a9431109043.jpeg
+
+[31] Testing: BBA | Batch 22 | College 215 | G
+    Enrollment: 01421501722
+    ✅ IMAGE FOUND: YAMINI
+    URL: https://assets.ipuranklist.com/e8cd9d88-8107-4b7d-a5fd-f773c28f27df.jpeg
+
+[32] Testing: BBA | Batch 22 | College 242 | G
+    Enrollment: 70124201722
+    ✅ IMAGE FOUND: MANYA SINHA
+    URL: https://assets.ipuranklist.com/51579adf-19b1-4770-a2e7-b18de2116d90.jpeg
+
+[33] Testing: BBA | Batch 22 | College 124 | G
+    Enrollment: 00212401722
+    ✅ IMAGE FOUND: KASHISH SINGHAL
+    URL: https://assets.ipuranklist.com/6601cfa6-0c86-4ad0-a8cc-e21d26d051eb.jpeg
+
+[34] Testing: BBA | Batch 22 | College 511 | G
+    Enrollment: 06051101722
+    ✅ IMAGE FOUND: ANANYA SHARMA
+    URL: https://assets.ipuranklist.com/5c16cc57-b263-4dcf-97a9-623368cd3168.jpeg
+
+[35] Testing: BBA | Batch 22 | College 125 | G
+    Enrollment: 01712501722
+    ✅ IMAGE FOUND: SAKSHAM BABBAR
+    URL: https://assets.ipuranklist.com/4350e7ab-c4e2-4c11-a8da-cf0885c79720.jpeg
+
+[36] Testing: BBA | Batch 22 | College 217 | G
+    Enrollment: 03321701722
+    ✅ IMAGE FOUND: DEVANSH ARORA
+    URL: https://assets.ipuranklist.com/0cce8ed1-cc28-49ce-a640-8aa26a5b631d.jpeg
+
+[37] Testing: BBA | Batch 22 | College 514 | G
+    Enrollment: 06951401722
+    ✅ IMAGE FOUND: RITUL GODARA
+    URL: https://assets.ipuranklist.com/2a9f0868-2077-44a3-8005-4eca464b1c15.jpeg
+
+[38] Testing: BBA | Batch 22 | College 901 | G
+    Enrollment: 02090101722
+    ✅ IMAGE FOUND: SMRITI NAURIYAL
+    URL: https://assets.ipuranklist.com/14e0bb7a-7ee0-4716-b105-3b62945bec34.jpeg
+
+[39] Testing: BBA | Batch 22 | College 134 | G
+    Enrollment: 03513401722
+    ✅ IMAGE FOUND: TUSHAR DHALLA
+    URL: https://assets.ipuranklist.com/24db361a-5d73-4f54-bf97-a895187f50a8.jpeg
+
+[40] Testing: BBA | Batch 22 | College 210 | G
+    Enrollment: 04721001722
+    ✅ IMAGE FOUND: SANCHI JAIN
+    URL: https://assets.ipuranklist.com/42ffc7f2-3b71-41f8-bd3f-6a79ca32379f.jpeg
+
+[41] Testing: BBA | Batch 22 | College 244 | G
+    Enrollment: 10424401722
+    ✅ IMAGE FOUND: KHUSHI KANWAL
+    URL: https://assets.ipuranklist.com/ec911343-a78f-4bfa-b9d4-ad76e1637ea0.jpeg
+
+[42] Testing: BBA | Batch 22 | College 903 | G
+    Enrollment: 12290301722
+    ✅ IMAGE FOUND: PARNIKA KHILRANI
+    URL: https://assets.ipuranklist.com/92a7ddc5-3493-4c05-b11e-39aa048e48f3.jpeg
+
+[43] Testing: BBA | Batch 22 | College 137 | G
+    Enrollment: 04413701722
+    ✅ IMAGE FOUND: SUHANI GUPTA
+    URL: https://assets.ipuranklist.com/3808c704-d3d0-4445-b8cf-b084cf878198.jpeg
+
+[44] Testing: BBA | Batch 22 | College 211 | G
+    Enrollment: 07821101722
+    ✅ IMAGE FOUND: BHAVYA AGGARWAL
+    URL: https://assets.ipuranklist.com/63a4bcc2-8dda-4d92-922c-51f91ea91fe4.jpeg
+
+[45] Testing: BBA | Batch 22 | College 141 | G
+    Enrollment: 00314101722
+    ✅ IMAGE FOUND: PRIYANSHI AGGARWAL
+    URL: https://assets.ipuranklist.com/94d2e879-817e-4396-9de1-c61accbbde4b.jpeg
+
+[46] Testing: BBA | Batch 22 | College 245 | G
+    Enrollment: 03124501722
+    ✅ IMAGE FOUND: CHARVEE GUPTA
+    URL: https://assets.ipuranklist.com/0e0f869f-04f3-49f5-a25b-a90ba81a5e4e.jpeg
+
+[47] Testing: BBA | Batch 22 | College 140 | G
+    Enrollment: 05514001722
+    ✅ IMAGE FOUND: SHREYA BAJAJ
+    URL: https://assets.ipuranklist.com/451186c4-2189-4fd2-a770-a5985497e487.jpeg
+
+[48] Testing: BBA | Batch 22 | College 504 | G
+    Enrollment: 06250401722
+    ✅ IMAGE FOUND: YASHICA JETHANI
+    URL: https://assets.ipuranklist.com/005d3a44-fb8b-4fe3-8af0-0b71ab9761ed.jpeg
+
+[49] Testing: BBA | Batch 22 | College 142 | G
+    Enrollment: 02614201722
+    ✅ IMAGE FOUND: AARSHA GOKUL
+    URL: https://assets.ipuranklist.com/5b4a966d-d0da-44eb-b241-40c581c7e0d2.jpeg
+
+[50] Testing: BBA | Batch 22 | College 214 | G
+    Enrollment: 05421401722
+    ✅ IMAGE FOUND: LAKSHAY DUA
+    URL: https://assets.ipuranklist.com/8bb9d467-bca2-45b1-a467-63d940ae1da5.jpeg
+
+[51] Testing: BBA | Batch 22 | College 255 | G
+    Enrollment: 01425501722
+    ✅ IMAGE FOUND: ADITI GUPTA
+    URL: https://assets.ipuranklist.com/d0dfe34b-6367-4725-bb8e-2354ae05d460.jpeg
+
+[52] Testing: BBA | Batch 22 | College 967 | G
+    Enrollment: 01696701722
+    ✅ IMAGE FOUND: DIKSHA SHARMA
+    URL: https://assets.ipuranklist.com/41ec5191-99d0-4878-b57b-69d6b1d8ad33.jpeg
+
+[53] Testing: BBA | Batch 22 | College 193 | G
+    Enrollment: 03019301722
+    ✅ IMAGE FOUND: SAMRIDHI
+    URL: https://assets.ipuranklist.com/68ad408b-76ae-40ac-a1f7-15bf0618531b.jpeg
+
+[54] Testing: BBA | Batch 22 | College 515 | G
+    Enrollment: 02051501722
+    ✅ IMAGE FOUND: MANYA SAXENA
+    URL: https://assets.ipuranklist.com/53f76d4e-1be1-4957-acde-e5489898b7df.jpeg
+
+[55] Testing: BBA | Batch 22 | College 192 | G
+    Enrollment: 05219201722
+    ✅ IMAGE FOUND: General
+    URL: https://assets.ipuranklist.com/b0a3c6e9-ff72-4f8a-80e9-5c563dd8c734.jpeg
+
+[56] Testing: BBA | Batch 22 | College 147 | G
+    Enrollment: 10114701722
+    ✅ IMAGE FOUND: RAGHAV AGGARWAL
+    URL: https://assets.ipuranklist.com/c5082a03-6ca1-466e-90cb-fd88e69b15a5.jpeg
+
+[57] Testing: BBA | Batch 22 | College 611 | G
+    Enrollment: 03161101722
+    ✅ IMAGE FOUND: UNNATI BANSAL
+    URL: https://assets.ipuranklist.com/e5df7412-228e-4cf3-b07d-77a04f3e1a20.jpeg
+
+[58] Testing: BBA | Batch 22 | College 151 | G
+    Enrollment: 03415101722
+    ✅ IMAGE FOUND: GEETANSHI GROVER
+    URL: https://assets.ipuranklist.com/474f9b39-ea61-4e9d-931b-24ed2b4a314d.jpeg
+
+[59] Testing: BBA | Batch 22 | College 149 | G
+    Enrollment: 15514901722
+    ✅ IMAGE FOUND: POORVI GUPTA
+    URL: https://assets.ipuranklist.com/077eab7c-b611-4201-a29b-e1366d222b90.jpeg
+
+[60] Testing: BBA | Batch 22 | College 212 | G
+    Enrollment: 01221201722
+    ✅ IMAGE FOUND: KUNAL MALHOTRA
+    URL: https://assets.ipuranklist.com/01d0b6f1-d8f2-441f-9e4e-1d8263c19a34.jpeg
+
+[61] Testing: BBA | Batch 22 | College 155 | G
+    Enrollment: 11715501722
+    ✅ IMAGE FOUND: YAMIKA ANEJA
+    URL: https://assets.ipuranklist.com/372afa65-75a9-4d04-a131-5be774cc38ae.jpeg
+
+[62] Testing: BBA | Batch 22 | College 506 | G
+    Enrollment: 00150601722
+    ✅ IMAGE FOUND: General
+    URL: https://assets.ipuranklist.com/a825ff2a-734c-4f6f-b70d-e714c7b0ca07.jpeg
+
+[63] Testing: BBA | Batch 22 | College 159 | G
+    Enrollment: 13015901722
+    ✅ IMAGE FOUND: DRISHTI VAID
+    URL: https://assets.ipuranklist.com/102c73de-d7b3-4ee1-ad46-913dcc1459e6.jpeg
+
+[64] Testing: BBA | Batch 22 | College 803 | G
+    Enrollment: 35380301722
+    ✅ IMAGE FOUND: RIYA BANSAL
+    URL: https://assets.ipuranklist.com/2c23a1fe-ebb6-42ce-ada0-e2835458be12.jpeg
+
+[65] Testing: BBA | Batch 22 | College 247 | G
+    Enrollment: 00224701722
+    ✅ IMAGE FOUND: MUSKAN SHARMA
+    URL: https://assets.ipuranklist.com/b2a60e69-f7ab-4f97-b127-0655488f42bf.jpeg
+
+[66] Testing: BBA | Batch 22 | College 902 | G
+    Enrollment: 04990201722
+    ✅ IMAGE FOUND: LEELA SHARMA
+    URL: https://assets.ipuranklist.com/f206ad57-5272-4781-a1c6-1bb900a209ce.jpeg
+
+[67] Testing: BBA | Batch 22 | College 969 | G
+    Enrollment: 02396901722
+    ✅ IMAGE FOUND: ANUSHKA JINDAL
+    URL: https://assets.ipuranklist.com/0fc8797f-b5b3-4fc3-a608-d46423b89d86.jpeg
+
+[68] Testing: BBA | Batch 22 | College 170 | G
+    Enrollment: 06617001722
+    ✅ IMAGE FOUND: SHRUTI JAIN
+    URL: https://assets.ipuranklist.com/37a1e290-ffe7-4df7-ab66-dbcb1dc40719.jpeg
+
+[69] Testing: BBA | Batch 22 | College 213 | G
+    Enrollment: 10421301722
+    ✅ IMAGE FOUND: VIVEK KUMAR LUNAWAT
+    URL: https://assets.ipuranklist.com/a35f864c-c2e4-489d-95ab-724deccfa237.jpeg
+
+[70] Testing: BBA | Batch 22 | College 206 | G
+    Enrollment: 01820601722
+    ✅ IMAGE FOUND: TANISHA GUPTA
+    URL: https://assets.ipuranklist.com/040441ff-4d5d-45ae-bab6-ca38d72bc0c0.jpeg
+
+[71] Testing: BBA | Batch 22 | College 240 | G
+    Enrollment: 00924001722
+    ✅ IMAGE FOUND: PRATYUSH UNIYAL
+    URL: https://assets.ipuranklist.com/79ed9c20-f99a-4282-99b0-7ed7b79cd002.jpeg
+
+[72] Testing: BBA | Batch 22 | College 177 | G
+    Enrollment: 35717701722
+    ✅ IMAGE FOUND: ASHI BANSAL
+    URL: https://assets.ipuranklist.com/41d28131-1658-4655-8e41-faae94972f60.jpeg
+
+[73] Testing: BBA | Batch 22 | College 298 | G
+    Enrollment: 01929801722
+    ✅ IMAGE FOUND: SPARSH SINGHAL
+    URL: https://assets.ipuranklist.com/c5fc6e8c-bcce-4e5e-a682-0874c7a8ec61.jpeg
+
+[74] Testing: BED | Batch 22 | College 108 | GENERAL
+    Enrollment: 03610802122
+    ✅ IMAGE FOUND: PRAGYA PANDEY
+    URL: https://assets.ipuranklist.com/d50758d7-b88a-41ce-911f-c10304dfe84a.jpeg
+
+[75] Testing: BED | Batch 22 | College 124 | GENERAL
+    Enrollment: 01212402122
+    ✅ IMAGE FOUND: JANVI GAUR
+    URL: https://assets.ipuranklist.com/8b9c754c-7ea1-426c-ae0d-c12fc80135e8.jpeg
+
+[76] Testing: BED | Batch 22 | College 402 | GENERAL
+    Enrollment: 01740202122
+    ✅ IMAGE FOUND: SUBHRO SANKAR SAHA
+    URL: https://assets.ipuranklist.com/8b321a10-6bfa-4303-a48f-7d553e3190bb.jpeg
+
+[77] Testing: BED | Batch 22 | College 901 | GENERAL
+    Enrollment: 01290102122
+    ✅ IMAGE FOUND: SHREYA MISHRA
+    URL: https://assets.ipuranklist.com/381db69f-c733-4b1d-bc62-e9cab73985ca.jpeg
+
+[78] Testing: BED | Batch 22 | College 128 | GENERAL
+    Enrollment: 02312802122
+    ✅ IMAGE FOUND: KANCHAN
+    URL: https://assets.ipuranklist.com/e82a371e-8dcd-4345-90de-0bf1c70c5011.jpeg
+
+[79] Testing: BED | Batch 22 | College 129 | GENERAL
+    Enrollment: 06412902122
+    ✅ IMAGE FOUND: ANJALI
+    URL: https://assets.ipuranklist.com/697f5ee8-a7aa-4a21-b2ae-0b64ce336cbb.jpeg
+
+[80] Testing: BED | Batch 22 | College 218 | GENERAL
+    Enrollment: 02321802122
+    ✅ IMAGE FOUND: SIMRAN JYOT KAUR
+    URL: https://assets.ipuranklist.com/8198bee4-3042-431b-86dc-57ce955bbb5a.jpeg
+
+[81] Testing: BED | Batch 22 | College 139 | GENERAL
+    Enrollment: 06313902122
+    ✅ IMAGE FOUND: PUNEETA SINGH BISHT
+    URL: https://assets.ipuranklist.com/8ed98470-2222-4fb0-a6ec-4ac97b1fb9ac.jpeg
+
+[82] Testing: BED | Batch 22 | College 255 | GENERAL
+    Enrollment: 02625502122
+    ✅ IMAGE FOUND: YUKTA AGGARWAL
+    URL: https://assets.ipuranklist.com/219ca72d-d533-465f-9b39-7514d3c0c074.jpeg
+
+[83] Testing: BED | Batch 22 | College 967 | GENERAL
+    Enrollment: 05396702122
+    ✅ IMAGE FOUND: SHALU RANI
+    URL: https://assets.ipuranklist.com/abae4469-d2e3-41c0-80d5-fa823872fdbb.jpeg
+
+[84] Testing: BED | Batch 22 | College 144 | GENERAL
+    Enrollment: 05214402122
+    ✅ IMAGE FOUND: RIMPA KAR
+    URL: https://assets.ipuranklist.com/0c90e8ce-c27e-4a62-9c09-4df038f28dda.jpeg
+
+[85] Testing: BED | Batch 22 | College 193 | GENERAL
+    Enrollment: 01219302122
+    ✅ IMAGE FOUND: MAHIMA
+    URL: https://assets.ipuranklist.com/725224af-4c84-49b6-8996-fff6f9ce183f.jpeg
+
+[86] Testing: BED | Batch 22 | College 192 | GENERAL
+    Enrollment: 03319202122
+    ✅ IMAGE FOUND: MEGHA AGGARWAL
+    URL: https://assets.ipuranklist.com/037dfacd-44f9-4354-aaf6-500d5b4fc712.jpeg
+
+[87] Testing: BED | Batch 22 | College 149 | GENERAL
+    Enrollment: 00314902122
+    ✅ IMAGE FOUND: SHILPA NANDI
+    URL: https://assets.ipuranklist.com/07a4d7fa-ec19-4aab-8d19-fe460b1e75ba.jpeg
+
+[88] Testing: BED | Batch 22 | College 157 | GENERAL
+    Enrollment: 00415702122
+    ✅ IMAGE FOUND: KASHISH GUPTA
+    URL: https://assets.ipuranklist.com/8629d7e0-83d8-41f1-866a-4d2304b97f9f.jpeg
+
+[89] Testing: BED | Batch 22 | College 158 | GENERAL
+    Enrollment: 01115802122
+    ✅ IMAGE FOUND: DEEPALI SAXENA
+    URL: https://assets.ipuranklist.com/729f2b36-f668-4427-9aee-bfc9e8ad21fb.jpeg
+
+[90] Testing: BED | Batch 22 | College 181 | GENERAL
+    Enrollment: 05818102122
+    ✅ IMAGE FOUND: ADITI NAGPAL
+    URL: https://assets.ipuranklist.com/b1d129ba-63a7-4486-9261-c778035f2702.jpeg
+
+[91] Testing: BED | Batch 22 | College 969 | GENERAL
+    Enrollment: 07396902122
+    ✅ IMAGE FOUND: GUNJAN VERMA
+    URL: https://assets.ipuranklist.com/b1875e39-8824-42c7-947b-80688276c8f5.jpeg
+
+[92] Testing: BED | Batch 22 | College 799 | GENERAL
+    Enrollment: 00779902122
+    ✅ IMAGE FOUND: MANPREET KAUR
+    URL: https://assets.ipuranklist.com/20047faa-b117-49f5-8b9c-3b1373759927.jpeg
+
+[93] Testing: BED | Batch 22 | College 999 | GENERAL
+    Enrollment: 08399902122
+    ✅ IMAGE FOUND: ANURADHA SHARMA
+    URL: https://assets.ipuranklist.com/8b04bc33-bd24-49fd-9d25-5bdc4236c660.jpeg
+
+[94] Testing: BED | Batch 22 | College 970 | GENERAL
+    Enrollment: 00697002122
+    ✅ IMAGE FOUND: RIYA SHARMA
+    URL: https://assets.ipuranklist.com/b3236512-4e5b-4821-a104-a311fd1b6891.jpeg
+
+[95] Testing: BED | Batch 22 | College 174 | GENERAL
+    Enrollment: 00817402122
+    ✅ IMAGE FOUND: TANIYA CHADHA
+    URL: https://assets.ipuranklist.com/e923d7df-1457-4d9d-b30f-01f820d4b85d.jpeg
+
+[96] Testing: BED | Batch 22 | College 523 | ASD
+    Enrollment: 01052312422
+    ✅ IMAGE FOUND: ASHA BAIRWA
+    URL: https://assets.ipuranklist.com/a28bfbd3-735a-465d-8ac0-25ef9ad2633a.jpeg
+
+[97] Testing: BED | Batch 22 | College 523 | HI
+    Enrollment: 00652312222
+    ✅ IMAGE FOUND: Hearing Impairment
+    URL: https://assets.ipuranklist.com/77217dbd-4254-4ac6-bf91-b826ad28805b.jpeg
+
+[98] Testing: BED | Batch 22 | College 523 | ID
+    Enrollment: 02052312522
+    ✅ IMAGE FOUND: MUSKAN
+    URL: https://assets.ipuranklist.com/ceb2d24b-b853-4cad-a030-8f027c7d8c04.jpeg
+
+[99] Testing: BED | Batch 22 | College 178 | ID
+    Enrollment: 00917812522
+    ✅ IMAGE FOUND: ANNAPURNA BIDAWAT
+    URL: https://assets.ipuranklist.com/635ad88d-ad68-4bfa-afd3-5bd914300ea1.jpeg
+
+[100] Testing: BED | Batch 22 | College 523 | VI
+    Enrollment: 00552312622
+    ✅ IMAGE FOUND: AMARDEEP KUMAR ARYA
+    URL: https://assets.ipuranklist.com/bea18a88-0208-4208-bf27-c31aa6fb253e.jpeg
+
+[101] Testing: BTECH | Batch 22 | College 156 | AIDS
+    Enrollment: 20315611922
+    ✅ IMAGE FOUND: R SURYA
+    URL: https://assets.ipuranklist.com/7bdd5975-81a9-4800-97db-124bc2281258.jpeg
+
+[102] Testing: BTECH | Batch 22 | College 180 | AIDS
+    Enrollment: 02118011922
+    ✅ IMAGE FOUND: ASHMITA SHARMA
+    URL: https://assets.ipuranklist.com/2feb6cca-e9a9-4175-8b94-c179bff54579.jpeg
+
+[103] Testing: BTECH | Batch 22 | College 133 | AIDS
+    Enrollment: 20113311922
+    ✅ IMAGE FOUND: VANSHIKA BHARDWAJ
+    URL: https://assets.ipuranklist.com/9f7e3127-e00b-4e4b-b6be-d886dfcd3a21.jpeg
+
+[104] Testing: BTECH | Batch 22 | College 255 | AIDS
+    Enrollment: 01125511922
+    ✅ IMAGE FOUND: DHRUV NARAYAN RAINA
+    URL: https://assets.ipuranklist.com/a18c9a8a-1f16-438c-b9ab-d83894f17b8c.jpeg
+
+[105] Testing: BTECH | Batch 22 | College 190 | AIDS
+    Enrollment: 13319051922
+    ✅ IMAGE FOUND: DHAIRYA GUPTA
+    URL: https://assets.ipuranklist.com/6bb845d7-17b1-4e32-bfe7-96e14ae4dabb.jpeg
+
+[106] Testing: BTECH | Batch 22 | College 177 | AIDS
+    Enrollment: 20117711922
+    ✅ IMAGE FOUND: SUHANI SINGHAL
+    URL: https://assets.ipuranklist.com/f5d9bf3b-50b9-465b-9997-70457493b808.jpeg
+
+[107] Testing: BTECH | Batch 22 | College 156 | AIML
+    Enrollment: 04015611622
+    ✅ IMAGE FOUND: KOMAL GOEL
+    URL: https://assets.ipuranklist.com/a14243f0-d078-417c-a453-f87fd123e4da.jpeg
+
+[108] Testing: BTECH | Batch 22 | College 553 | AIML
+    Enrollment: 00255311622
+    ✅ IMAGE FOUND: TEENU JAIN
+    URL: https://assets.ipuranklist.com/e80c71d1-7496-4726-82d6-8953c726851c.jpeg
+
+[109] Testing: BTECH | Batch 22 | College 180 | AIML
+    Enrollment: 01618011622
+    ✅ IMAGE FOUND: SNEHA PANDEY
+    URL: https://assets.ipuranklist.com/cfc13a91-48b7-4488-b10c-be8bcfef1250.jpeg
+
+[110] Testing: BTECH | Batch 22 | College 133 | AIML
+    Enrollment: 20113311622
+    ❌ NO IMAGE AVAILABLE
+
+[111] Testing: BTECH | Batch 22 | College 255 | AIML
+    Enrollment: 35125511622
+    ❌ NO IMAGE AVAILABLE
+
+[112] Testing: BTECH | Batch 22 | College 190 | AIML
+    Enrollment: 13519051622
+    ✅ IMAGE FOUND: MAYUR RAJ
+    URL: https://assets.ipuranklist.com/51afa93f-2d1a-4fab-aba3-10585df5e1bb.jpeg
+
+[113] Testing: BTECH | Batch 22 | College 177 | AIML
+    Enrollment: 02617711622
+    ✅ IMAGE FOUND: ANANYA SWAMI
+    URL: https://assets.ipuranklist.com/133c40ca-487e-47cd-81ce-17a10434850d.jpeg
+
+[114] Testing: BTECH | Batch 22 | College 190 | AR
+    Enrollment: 06419052022
+    ✅ IMAGE FOUND: AMAAN NASEH
+    URL: https://assets.ipuranklist.com/c6ee5ddc-d31e-46c4-a073-5396b934593e.jpeg
+
+[115] Testing: BTECH | Batch 22 | College 161 | BCE
+    Enrollment: 00416100422
+    ✅ IMAGE FOUND: AARUSHI GUPTA
+    URL: https://assets.ipuranklist.com/08d8e025-56bf-411a-915f-4aaf8452d536.jpeg
+
+[116] Testing: BTECH | Batch 22 | College 160 | BT
+    Enrollment: 04716001322
+    ❌ NO IMAGE AVAILABLE
+
+[117] Testing: BTECH | Batch 22 | College 156 | CIV
+    Enrollment: 35115603422
+    ❌ NO IMAGE AVAILABLE
+
+[118] Testing: BTECH | Batch 22 | College 962 | CSE
+    Enrollment: 00296202722
+    ✅ IMAGE FOUND: ANCHAL JAIN
+    URL: https://assets.ipuranklist.com/e195a586-9c45-4f47-b7ce-9cdb5f4b9cac.jpeg
+
+[119] Testing: BTECH | Batch 22 | College 156 | CSE
+    Enrollment: 05315602722
+    ✅ IMAGE FOUND: DEEPTI CHINCHOLI
+    URL: https://assets.ipuranklist.com/9ff1ef3c-17e0-4aaa-a122-29baa9809845.jpeg
+
+[120] Testing: BTECH | Batch 22 | College 208 | CSE
+    Enrollment: 04320802722
+    ✅ IMAGE FOUND: JYOTI AHUJA
+    URL: https://assets.ipuranklist.com/75736b16-a7d6-41a8-ab96-17cb7f04d629.jpeg
+
+[121] Testing: BTECH | Batch 22 | College 115 | CSE
+    Enrollment: 20611502722
+    ❌ NO IMAGE AVAILABLE
+
+[122] Testing: BTECH | Batch 22 | College 180 | CSE
+    Enrollment: 02918002722
+    ✅ IMAGE FOUND: ARNAV SHARMA
+    URL: https://assets.ipuranklist.com/32bbd1f0-9ee5-40a6-a8a8-e6198b07f052.jpeg
+
+[123] Testing: BTECH | Batch 22 | College 768 | CSE
+    Enrollment: 20176802722
+    ❌ NO IMAGE AVAILABLE
+
+[124] Testing: BTECH | Batch 22 | College 132 | CSE
+    Enrollment: 16713202722
+    ✅ IMAGE FOUND: AMANDEEP SINGH
+    URL: https://assets.ipuranklist.com/fc7c78fc-6214-4569-8137-13ba0cb45677.jpeg
+
+[125] Testing: BTECH | Batch 22 | College 965 | CSE
+    Enrollment: 06196502722
+    ✅ IMAGE FOUND: RIDDHIMA SINGH
+    URL: https://assets.ipuranklist.com/7802a43b-3234-41bd-b811-dc74a6207bc1.jpeg
+
+[126] Testing: BTECH | Batch 22 | College 133 | CSE
+    Enrollment: 01013302722
+    ✅ IMAGE FOUND: KHUSHI BANSAL
+    URL: https://assets.ipuranklist.com/7f538e7d-ea60-477b-8d58-42e5d5ecce3c.jpeg
+
+[127] Testing: BTECH | Batch 22 | College 255 | CSE
+    Enrollment: 07225502722
+    ✅ IMAGE FOUND: AKANSHA BISHT
+    URL: https://assets.ipuranklist.com/9ad4eac2-a23b-43aa-960c-31db350d820c.jpeg
+
+[128] Testing: BTECH | Batch 22 | College 964 | CSE
+    Enrollment: 00896402722
+    ✅ IMAGE FOUND: JAI OBEROI
+    URL: https://assets.ipuranklist.com/cf4797f5-0bcf-40f2-846b-abe6e3e98670.jpeg
+
+[129] Testing: BTECH | Batch 22 | College 148 | CSE
+    Enrollment: 20114802722
+    ❌ NO IMAGE AVAILABLE
+
+[130] Testing: BTECH | Batch 22 | College 963 | CSE
+    Enrollment: 04296302722
+    ✅ IMAGE FOUND: NIKITA BHATIA
+    URL: https://assets.ipuranklist.com/e1650439-69f4-4b6b-9719-58a8e5712c4b.jpeg
+
+[131] Testing: BTECH | Batch 22 | College 150 | CSE
+    Enrollment: 07715002722
+    ✅ IMAGE FOUND: ARNAV KOHLI
+    URL: https://assets.ipuranklist.com/5667004a-b643-45f9-8f0f-0e575e86e113.jpeg
+
+[132] Testing: BTECH | Batch 22 | College 551 | CSE
+    Enrollment: 00455102722
+    ✅ IMAGE FOUND: PARTH SHARMA
+    URL: https://assets.ipuranklist.com/5f60acee-684e-47bc-812b-9bc6ec5fc6bf.jpeg
+
+[133] Testing: BTECH | Batch 22 | College 164 | CSE
+    Enrollment: 40116403222
+    ❌ NO IMAGE AVAILABLE
+
+[134] Testing: BTECH | Batch 22 | College 148 | CST
+    Enrollment: 02614812722
+    ✅ IMAGE FOUND: SAMARPIT AGARWAL
+    URL: https://assets.ipuranklist.com/56e12c4d-7919-4974-95e8-a8b493d75660.jpeg
+
+[135] Testing: BTECH | Batch 22 | College 279 | CST
+    Enrollment: 00427912722
+    ✅ IMAGE FOUND: SNEHA SANTRA
+    URL: https://assets.ipuranklist.com/1ed8826a-397e-42fc-9b8a-8589faf64e46.jpeg
+
+[136] Testing: BTECH | Batch 22 | College 161 | CT
+    Enrollment: 01416101422
+    ✅ IMAGE FOUND: TANISHKA SAXENA
+    URL: https://assets.ipuranklist.com/282ed938-6699-46c8-8728-a1ad1e70a63c.jpeg
+
+[137] Testing: BTECH | Batch 22 | College 962 | ECE
+    Enrollment: 35196202822
+    ❌ NO IMAGE AVAILABLE
+
+[138] Testing: BTECH | Batch 22 | College 156 | ECE
+    Enrollment: 01415602822
+    ❌ NO IMAGE AVAILABLE
+
+[139] Testing: BTECH | Batch 22 | College 208 | ECE
+    Enrollment: 08420802822
+    ✅ IMAGE FOUND: SHALINI SHARMA
+    URL: https://assets.ipuranklist.com/8f801472-f299-411b-b2d0-218a587846f8.jpeg
+
+[140] Testing: BTECH | Batch 22 | College 115 | ECE
+    Enrollment: 00211502822
+    ✅ IMAGE FOUND: AKSHAY GARG
+    URL: https://assets.ipuranklist.com/20eb81e9-f78d-463d-b5ab-24949ba0c9b3.jpeg
+
+[141] Testing: BTECH | Batch 22 | College 132 | ECE
+    Enrollment: 00713202822
+    ✅ IMAGE FOUND: PULKIT AGGARWAL
+    URL: https://assets.ipuranklist.com/6f8527ac-91af-4066-b5e0-8521cdeed5fc.jpeg
+
+[142] Testing: BTECH | Batch 22 | College 148 | ECE
+    Enrollment: 11014802822
+    ✅ IMAGE FOUND: HIMANSHI JAIN
+    URL: https://assets.ipuranklist.com/b1bac90c-29f5-42be-b8a4-938c15b22d2b.jpeg
+
+[143] Testing: BTECH | Batch 22 | College 963 | ECE
+    Enrollment: 00196302822
+    ✅ IMAGE FOUND: RISHIT RASTOGI
+    URL: https://assets.ipuranklist.com/6ca7643a-6e04-4811-8a21-6cd524bc6866.jpeg
+
+[144] Testing: BTECH | Batch 22 | College 150 | ECE
+    Enrollment: 08215002822
+    ✅ IMAGE FOUND: PRAGATI SHARMA
+    URL: https://assets.ipuranklist.com/ac35839c-934c-497e-ba6c-c1058de757bf.jpeg
+
+[145] Testing: BTECH | Batch 22 | College 164 | ECE
+    Enrollment: 05016412822
+    ✅ IMAGE FOUND: RISHAV DIYALI
+    URL: https://assets.ipuranklist.com/f283de8a-16af-4465-bab2-ff37af29c4a5.jpeg
+
+[146] Testing: BTECH | Batch 22 | College 208 | EEE
+    Enrollment: 01320804922
+    ✅ IMAGE FOUND: YASH MEHRA
+    URL: https://assets.ipuranklist.com/21dad9bd-5628-470b-9435-f0cef237b230.jpeg
+
+[147] Testing: BTECH | Batch 22 | College 115 | EEE
+    Enrollment: 00911504922
+    ✅ IMAGE FOUND: HARSHITA SUNEJA
+    URL: https://assets.ipuranklist.com/2a3625b1-5177-45e2-a56c-abc5b64dfe89.jpeg
+
+[148] Testing: BTECH | Batch 22 | College 148 | EEE
+    Enrollment: 01214807823
+    ❌ NO IMAGE AVAILABLE
+
+[149] Testing: BTECH | Batch 22 | College 150 | EEE
+    Enrollment: 00815004922
+    ✅ IMAGE FOUND: KARTIK TYAGI
+    URL: https://assets.ipuranklist.com/8ad05b88-3480-4542-a84c-43051916dd29.jpeg
+
+[150] Testing: BTECH | Batch 22 | College 115 | ICE
+    Enrollment: 01311503022
+    ✅ IMAGE FOUND: ESHLEEN KAUR MAKKAR
+    URL: https://assets.ipuranklist.com/3ab8b7e6-dc4d-4920-bde4-d6aafa1477bc.jpeg
+
+[151] Testing: BTECH | Batch 22 | College 190 | IOT
+    Enrollment: 20119051722
+    ✅ IMAGE FOUND: AVISHI TYAGI
+    URL: https://assets.ipuranklist.com/62a1ccae-bfb0-4760-ad29-7f4b557e54b3.jpeg
+
+[152] Testing: BTECH | Batch 22 | College 177 | IOT
+    Enrollment: 02117711722
+    ❌ NO IMAGE AVAILABLE
+
+[153] Testing: BTECH | Batch 22 | College 962 | IT
+    Enrollment: 03896203122
+    ❌ NO IMAGE AVAILABLE
+
+[154] Testing: BTECH | Batch 22 | College 156 | IT
+    Enrollment: 04715603122
+    ❌ NO IMAGE AVAILABLE
+
+[155] Testing: BTECH | Batch 22 | College 208 | IT
+    Enrollment: 20420803122
+    ❌ NO IMAGE AVAILABLE
+
+[156] Testing: BTECH | Batch 22 | College 115 | IT
+    Enrollment: 06211503122
+    ❌ NO IMAGE AVAILABLE
+
+[157] Testing: BTECH | Batch 22 | College 272 | IT
+    Enrollment: 00127207723
+    ❌ NO IMAGE AVAILABLE
+
+[158] Testing: BTECH | Batch 22 | College 768 | IT
+    Enrollment: 16576803122
+    ❌ NO IMAGE AVAILABLE
+
+[159] Testing: BTECH | Batch 22 | College 132 | IT
+    Enrollment: 04013203122
+    ❌ NO IMAGE AVAILABLE
+
+[160] Testing: BTECH | Batch 22 | College 148 | IT
+    Enrollment: 03514803122
+    ❌ NO IMAGE AVAILABLE
+
+[161] Testing: BTECH | Batch 22 | College 963 | IT
+    Enrollment: 00796303122
+    ❌ NO IMAGE AVAILABLE
+
+[162] Testing: BTECH | Batch 22 | College 150 | IT
+    Enrollment: 20415003122
+    ✅ IMAGE FOUND: MANAVI SRIVASTAVA
+    URL: https://assets.ipuranklist.com/233132f8-9397-441e-afee-52ae3a5f6d70.jpeg
+
+[163] Testing: BTECH | Batch 22 | College 279 | IT
+    Enrollment: 00127903122
+    ❌ NO IMAGE AVAILABLE
+
+[164] Testing: BTECH | Batch 22 | College 164 | IT
+    Enrollment: 02716401522
+    ✅ IMAGE FOUND: DHRUV CHADHA
+    URL: https://assets.ipuranklist.com/70f6f36c-3630-4c30-8764-0358b6579790.jpeg
+
+[165] Testing: BTECH | Batch 22 | College 148 | ITE
+    Enrollment: 35114813122
+    ❌ NO IMAGE AVAILABLE
+
+[166] Testing: BTECH | Batch 22 | College 148 | MAE
+    Enrollment: 03314803622
+    ✅ IMAGE FOUND: Mechanical and Automation Engineering
+    URL: https://assets.ipuranklist.com/894bd99e-e45c-4080-a787-f3ceee34bb0d.jpeg
+
+[167] Testing: BTECH | Batch 22 | College 156 | ME
+    Enrollment: 00415611122
+    ✅ IMAGE FOUND: VIVEK SINGH BHADORIA
+    URL: https://assets.ipuranklist.com/219b9738-110a-4e63-8af3-a5b7df4b4e39.jpeg
+
+[168] Testing: BTECH | Batch 22 | College 133 | ME
+    Enrollment: 00213308223
+    ❌ NO IMAGE AVAILABLE
+
+[169] Testing: BTECH | Batch 22 | College 148 | ME
+    Enrollment: 01714811122
+    ✅ IMAGE FOUND: JAYANT BUDDALA
+    URL: https://assets.ipuranklist.com/08e4957b-a654-4545-9f42-3b79ef8e717a.jpeg
+
+[170] Testing: LLB | Batch 22 | College 215 | BA%26LLB
+    Enrollment: 03921503822
+    ✅ IMAGE FOUND: PRIYANSHI BINDRA
+    URL: https://assets.ipuranklist.com/49c4381c-576e-4cb3-83e7-c1fde2ec15e0.jpeg
+
+[171] Testing: LLB | Batch 22 | College 224 | BA%26LLB
+    Enrollment: 00822403822
+    ✅ IMAGE FOUND: Delhi Institute Of Rural Development
+    URL: https://assets.ipuranklist.com/bfb6e6a7-bfad-4146-b905-8183803b3b36.jpeg
+
+[172] Testing: LLB | Batch 22 | College 511 | BA%26LLB
+    Enrollment: 05451103822
+    ✅ IMAGE FOUND: Delhi Metropolitan Education
+    URL: https://assets.ipuranklist.com/5ba852fc-b0db-4d03-a07a-b2b40e143803.jpeg
+
+[173] Testing: LLB | Batch 22 | College 901 | BA%26LLB
+    Enrollment: 12090103822
+    ✅ IMAGE FOUND: ASHI SANGWAN
+    URL: https://assets.ipuranklist.com/84e29b84-566d-4322-922d-93c217bf079b.jpeg
+
+[174] Testing: LLB | Batch 22 | College 134 | BA%26LLB
+    Enrollment: 04413403822
+    ✅ IMAGE FOUND: RAJSHREE SAINI
+    URL: https://assets.ipuranklist.com/c3d8c198-27cd-43f2-9c56-5c067cb52eb5.jpeg
+
+[175] Testing: LLB | Batch 22 | College 255 | BA%26LLB
+    Enrollment: 03125503822
+    ✅ IMAGE FOUND: RIDDHI AGARWAL
+    URL: https://assets.ipuranklist.com/67e80b50-b789-4459-98ca-78fea6d466bb.jpeg
+
+[176] Testing: LLB | Batch 22 | College 165 | BA%26LLB
+    Enrollment: 03716503822
+    ✅ IMAGE FOUND: SANSKRITI SHARMA
+    URL: https://assets.ipuranklist.com/7a10b3b2-6253-4be4-9516-b4178bd1c60b.jpeg
+
+[177] Testing: LLB | Batch 22 | College 177 | BA%26LLB
+    Enrollment: 24317703822
+    ✅ IMAGE FOUND: GEETANSHI DANG
+    URL: https://assets.ipuranklist.com/a6cd8dfd-dbfd-4d20-b235-3949b5e030e3.jpeg
+
+[178] Testing: LLB | Batch 22 | College 215 | BBA%26LLB
+    Enrollment: 00721503522
+    ✅ IMAGE FOUND: TANYA SHARMA
+    URL: https://assets.ipuranklist.com/58d5eccd-bf67-4d41-bf85-1e30aa57ecb0.jpeg
+
+[179] Testing: LLB | Batch 22 | College 511 | BBA%26LLB
+    Enrollment: 35251103522
+    ❌ NO IMAGE AVAILABLE
+
+[180] Testing: LLB | Batch 22 | College 901 | BBA%26LLB
+    Enrollment: 03990103522
+    ✅ IMAGE FOUND: DIKSHA
+    URL: https://assets.ipuranklist.com/66afb331-e437-4281-a2d1-d0b15d8ef425.jpeg
+
+[181] Testing: LLB | Batch 22 | College 255 | BBA%26LLB
+    Enrollment: 01225503522
+    ✅ IMAGE FOUND: SHREYA SINGH
+    URL: https://assets.ipuranklist.com/ef7ab610-d573-4635-8bfe-7bd2029bfdbb.jpeg
+
+[182] Testing: LLB | Batch 22 | College 165 | BBA%26LLB
+    Enrollment: 04116503522
+    ✅ IMAGE FOUND: ASTHA SINHA
+    URL: https://assets.ipuranklist.com/fd8836c7-6f8f-4138-89d9-a6b44858ec7d.jpeg
+
+[183] Testing: LLB | Batch 22 | College 177 | BBA%26LLB
+    Enrollment: 04217703522
+    ✅ IMAGE FOUND: TAMANNA GOEL
+    URL: https://assets.ipuranklist.com/aa59e67f-9970-476d-93aa-1b1498f01d98.jpeg
+
+[184] Testing: MBA | Batch 22 | College 166 | A
+    Enrollment: 00316619822
+    ❌ NO IMAGE AVAILABLE
+
+[185] Testing: MBA | Batch 22 | College 166 | FA
+    Enrollment: 02116659422
+    ✅ IMAGE FOUND: ISHIKA GUPTA
+    URL: https://assets.ipuranklist.com/c5a8b6aa-49ac-4929-8a35-3483cd0ebdd1.jpeg
+
+[186] Testing: MBA | Batch 22 | College 123 | FM-595
+    Enrollment: 00612359522
+    ✅ IMAGE FOUND: SAHIL BEHURA
+    URL: https://assets.ipuranklist.com/245a29f5-15c0-4967-8b10-fe526efacc6d.jpeg
+
+[187] Testing: MBA | Batch 22 | College 275 | GENERAL
+    Enrollment: 00327503922
+    ✅ IMAGE FOUND: SRISHTI SINGHAL
+    URL: https://assets.ipuranklist.com/dae7110e-bc23-4158-8ffd-7548c7b1c1a2.jpeg
+
+[188] Testing: MBA | Batch 22 | College 156 | GENERAL
+    Enrollment: 02715603922
+    ✅ IMAGE FOUND: KAJAL MISHRA
+    URL: https://assets.ipuranklist.com/13a845ef-cbd2-4e18-a970-40da73543310.jpeg
+
+[189] Testing: MBA | Batch 22 | College 184 | GENERAL
+    Enrollment: 01518403922
+    ✅ IMAGE FOUND: GUNJAN KATARIA
+    URL: https://assets.ipuranklist.com/3644f959-98ca-4aa5-805c-02457d98082c.jpeg
+
+[190] Testing: MBA | Batch 22 | College 612 | GENERAL
+    Enrollment: 08661203922
+    ✅ IMAGE FOUND: DEEPIKA DIXIT
+    URL: https://assets.ipuranklist.com/7593430e-9867-415b-a47b-df68d8d899bc.jpeg
+
+[191] Testing: MBA | Batch 22 | College 208 | GENERAL
+    Enrollment: 00820803922
+    ✅ IMAGE FOUND: SRISHTI BAUNTHIYAL
+    URL: https://assets.ipuranklist.com/1ca6d934-252b-4d0f-835c-4e04d0ac4bff.jpeg
+
+[192] Testing: MBA | Batch 22 | College 123 | GENERAL
+    Enrollment: 01312303922
+    ✅ IMAGE FOUND: NAMAN GUPTA
+    URL: https://assets.ipuranklist.com/332ce9a7-8a36-4b83-860f-6a3c132b66a4.jpeg
+
+[193] Testing: MBA | Batch 22 | College 180 | GENERAL
+    Enrollment: 00718003922
+    ✅ IMAGE FOUND: DINESH KUMAR SINGH
+    URL: https://assets.ipuranklist.com/d89ae053-931b-43e0-ab0e-e517fe8fb429.jpeg
+
+[194] Testing: MBA | Batch 22 | College 191 | GENERAL
+    Enrollment: 02419103922
+    ✅ IMAGE FOUND: KRITIKA KHANNA
+    URL: https://assets.ipuranklist.com/fe06d4d1-5c0d-4e07-bb1d-891307bff786.jpeg
+
+[195] Testing: MBA | Batch 22 | College 800 | GENERAL
+    Enrollment: 00280003922
+    ✅ IMAGE FOUND: RENU MAKHIJA
+    URL: https://assets.ipuranklist.com/4c7f478b-29dc-429e-8d2a-517cac8b8b7b.jpeg
+
+[196] Testing: MBA | Batch 22 | College 137 | GENERAL
+    Enrollment: 00113703922
+    ✅ IMAGE FOUND: SAANIYA TANWAR
+    URL: https://assets.ipuranklist.com/aa93de8b-d333-4290-b34c-431d2d11323a.jpeg
+
+[197] Testing: MBA | Batch 22 | College 148 | GENERAL
+    Enrollment: 08014803922
+    ✅ IMAGE FOUND: KOMAL GUPTA
+    URL: https://assets.ipuranklist.com/0105f365-456d-4f5e-a683-4815e0083a6a.jpeg
+
+[198] Testing: MBA | Batch 22 | College 151 | GENERAL
+    Enrollment: 00615103922
+    ✅ IMAGE FOUND: ANSHIKA
+    URL: https://assets.ipuranklist.com/2ef1f8e4-1bb7-49f7-9368-0705bf9c5084.jpeg
+
+[199] Testing: MBA | Batch 22 | College 351 | GENERAL
+    Enrollment: 00335103922
+    ✅ IMAGE FOUND: KANIKA BHARDWAJ
+    URL: https://assets.ipuranklist.com/e6bd4993-bc9d-416f-b437-b1aba712e238.jpeg
+
+[200] Testing: MBA | Batch 22 | College 159 | GENERAL
+    Enrollment: 00415903922
+    ✅ IMAGE FOUND: KRITIKA SARAF
+    URL: https://assets.ipuranklist.com/1597c0e4-ab8c-4a45-94f2-4fdf27c3a241.jpeg
+
+[201] Testing: MBA | Batch 22 | College 803 | GENERAL
+    Enrollment: 01280303922
+    ✅ IMAGE FOUND: ARCHIE DUA
+    URL: https://assets.ipuranklist.com/80c1470a-406a-44b0-8c2e-2ed0fe1ef92a.jpeg
+
+[202] Testing: MBA | Batch 22 | College 170 | GENERAL
+    Enrollment: 00417003922
+    ✅ IMAGE FOUND: VANSHIKA
+    URL: https://assets.ipuranklist.com/b0c4f4f2-9593-4590-9a2d-0d7f762c0c9d.jpeg
+
+[203] Testing: MBA | Batch 22 | College 213 | GENERAL
+    Enrollment: 35721303922
+    ✅ IMAGE FOUND: PAYAL GARG
+    URL: https://assets.ipuranklist.com/c1a19b57-16b1-498b-86f3-18bdb5a1babe.jpeg
+
+[204] Testing: MBA | Batch 22 | College 166 | GENERAL
+    Enrollment: 06316603922
+    ✅ IMAGE FOUND: MUSKAN KHAN
+    URL: https://assets.ipuranklist.com/ffedbe34-c4b9-49f1-8c64-eb58a7c68780.jpeg
+
+[205] Testing: MBA | Batch 22 | College 191 | IB
+    Enrollment: 01819114322
+    ✅ IMAGE FOUND: UMESH KUMAR
+    URL: https://assets.ipuranklist.com/db84bfee-0cbd-40c4-bf3a-9081c02e57dc.jpeg
+
+[206] Testing: MBA | Batch 22 | College 166 | WEEKEND
+    Enrollment: 02916688522
+    ❌ NO IMAGE AVAILABLE
+
+[207] Testing: MPLAN | Batch 22 | College 173 | MPLAN
+    Enrollment: 00417346822
+    ❌ NO IMAGE AVAILABLE
+
+[208] Testing: BHMCT | Batch 22 | College 110 | BHMCT
+    Enrollment: 01811002222
+    ✅ IMAGE FOUND: NAMAN GUPTA
+    URL: https://assets.ipuranklist.com/ed093db5-7d6f-4ee7-82a2-09c413a4062a.jpeg
+
+[209] Testing: MCA | Batch 22 | College 111 | GENERAL
+    Enrollment: 02511104422
+    ✅ IMAGE FOUND: RITIKA MALLIK
+    URL: https://assets.ipuranklist.com/85483020-c47b-48fa-8a98-a20b9e09bdc9.jpeg
+
+[210] Testing: MCA | Batch 22 | College 116 | GENERAL
+    Enrollment: 03411604422
+    ✅ IMAGE FOUND: HARSHITA GARG
+    URL: https://assets.ipuranklist.com/cd43ec6a-d3a0-4ad3-84d1-7c6d62947510.jpeg
+
+[211] Testing: MCA | Batch 22 | College 118 | GENERAL
+    Enrollment: 06611804422
+    ✅ IMAGE FOUND: MANYA JAIN
+    URL: https://assets.ipuranklist.com/78166b1c-4d0f-43ec-b680-1f391eb8d032.jpeg
+
+[212] Testing: MCA | Batch 22 | College 130 | GENERAL
+    Enrollment: 01513004422
+    ✅ IMAGE FOUND: POOJA JANA
+    URL: https://assets.ipuranklist.com/b0f8b5dc-36a8-4a93-970b-fe7ed3e3f765.jpeg
+
+[213] Testing: MCA | Batch 22 | College 140 | GENERAL
+    Enrollment: 09914004422
+    ✅ IMAGE FOUND: BHUMIKA SINGH
+    URL: https://assets.ipuranklist.com/a04fa261-25f4-45e4-a399-acc22a0ad6be.jpeg
+
+[214] Testing: MCA | Batch 22 | College 504 | GENERAL
+    Enrollment: 00650404422
+    ✅ IMAGE FOUND: HIMANK VERMA
+    URL: https://assets.ipuranklist.com/9a99384b-eeb6-4834-b55f-14d86f046823.jpeg
+
+[215] Testing: MCA | Batch 22 | College 177 | GENERAL
+    Enrollment: 05217704422
+    ✅ IMAGE FOUND: GATI PAREEK
+    URL: https://assets.ipuranklist.com/f957eab5-debe-4eac-b649-ff65ced47fce.jpeg
+
+[216] Testing: MCA | Batch 22 | College 164 | SE
+    Enrollment: 01516404522
+    ✅ IMAGE FOUND: SHALINI SINGH
+    URL: https://assets.ipuranklist.com/0fe11427-682b-446c-b127-3d492980c945.jpeg
+
+[217] Testing: MED | Batch 22 | College 699 | GENERAL
+    Enrollment: 00769900122
+    ✅ IMAGE FOUND: PRIYA SAXENA
+    URL: https://assets.ipuranklist.com/f23c7493-eed7-4aa9-90cb-426c6c33929f.jpeg
+
+[218] Testing: MED | Batch 22 | College 178 | SE-ID
+    Enrollment: 00517813322
+    ✅ IMAGE FOUND: MANSI GAUR
+    URL: https://assets.ipuranklist.com/0db405c1-621d-4986-bdcd-ed40c0bdd9a3.jpeg
+
+[219] Testing: MDES | Batch 22 | College 182 | GENERAL-451
+    Enrollment: 00218245122
+    ✅ IMAGE FOUND: DHRRITHI KHNNA
+    URL: https://assets.ipuranklist.com/99ba5ee8-0bde-465e-b757-3c92d8e25b49.jpeg
+
+[220] Testing: BARCH | Batch 22 | College 180 | BARCH
+    Enrollment: 01818001622
+    ✅ IMAGE FOUND: RASHI MEHROTRA
+    URL: https://assets.ipuranklist.com/d91f5de6-ef89-4b1e-bbc5-12d6bdb70e17.jpeg
+
+[221] Testing: BARCH | Batch 22 | College 593 | BARCH
+    Enrollment: 01459301622
+    ✅ IMAGE FOUND: RITVIKA GOLCHHA
+    URL: https://assets.ipuranklist.com/8673fb00-50c0-4772-9477-96ac7337f884.jpeg
+
+[222] Testing: BARCH | Batch 22 | College 173 | BARCH
+    Enrollment: 01817301622
+    ✅ IMAGE FOUND: KAASHVI SHARMA
+    URL: https://assets.ipuranklist.com/7c6fe173-47ae-4731-b706-6bd6db043a50.jpeg
+
+[223] Testing: BARCH | Batch 22 | College 176 | BARCH
+    Enrollment: 01917601622
+    ✅ IMAGE FOUND: SETU JAIN
+    URL: https://assets.ipuranklist.com/4e553cf6-dcc5-4175-a206-5cd0e87784b3.jpeg
+
+[224] Testing: BCOM | Batch 22 | College 215 | BCOM
+    Enrollment: 00121588822
+    ✅ IMAGE FOUND: SOMYA GIRATH
+    URL: https://assets.ipuranklist.com/f8285b5a-c00b-4a07-8828-a2c46cc2b4ea.jpeg
+
+[225] Testing: BCOM | Batch 22 | College 242 | BCOM
+    Enrollment: 00124288822
+    ✅ IMAGE FOUND: BHAVUK SHARMA
+    URL: https://assets.ipuranklist.com/fe547fd0-369c-4024-adf6-14e1c56cb121.jpeg
+
+[226] Testing: BCOM | Batch 22 | College 124 | BCOM
+    Enrollment: 00412488822
+    ✅ IMAGE FOUND: NISHIKA GOEL
+    URL: https://assets.ipuranklist.com/f26e741c-6b13-40b7-ab73-4e8086c22567.jpeg
+
+[227] Testing: BCOM | Batch 22 | College 125 | BCOM
+    Enrollment: 00512588822
+    ✅ IMAGE FOUND: VEDANT RELAN
+    URL: https://assets.ipuranklist.com/c7df9287-c073-4092-badb-629a6fefc6ae.jpeg
+
+[228] Testing: BCOM | Batch 22 | College 217 | BCOM
+    Enrollment: 01521788822
+    ✅ IMAGE FOUND: ANJALI
+    URL: https://assets.ipuranklist.com/fbbef777-0646-4a3a-ae94-b3c526087cfb.jpeg
+
+[229] Testing: BCOM | Batch 22 | College 901 | BCOM
+    Enrollment: 00190188822
+    ✅ IMAGE FOUND: JAYESH GULATI
+    URL: https://assets.ipuranklist.com/35776bd6-71e2-4d5f-ae97-dccb94859ac5.jpeg
+
+[230] Testing: BCOM | Batch 22 | College 130 | BCOM
+    Enrollment: 01613088822
+    ✅ IMAGE FOUND: Guru Nanak Institute Of Management
+    URL: https://assets.ipuranklist.com/c5e369b9-3ea2-4fe3-bf7c-8a0104bc5e93.jpeg
+
+[231] Testing: BCOM | Batch 22 | College 244 | BCOM
+    Enrollment: 02024488822
+    ✅ IMAGE FOUND: SNEHA WADHWA
+    URL: https://assets.ipuranklist.com/df0e2f16-ef22-4e6e-a1ec-07359bbdbba6.jpeg
+
+[232] Testing: BCOM | Batch 22 | College 903 | BCOM
+    Enrollment: 01390388822
+    ✅ IMAGE FOUND: HARSH BANSAL
+    URL: https://assets.ipuranklist.com/7f7480d5-9abb-492c-a86a-6b8fe493b632.jpeg
+
+[233] Testing: BCOM | Batch 22 | College 141 | BCOM
+    Enrollment: 02714188822
+    ✅ IMAGE FOUND: PIYUSH GARG
+    URL: https://assets.ipuranklist.com/57c1b8f3-47f5-44cc-b6ac-cc828db7f543.jpeg
+
+[234] Testing: BCOM | Batch 22 | College 245 | BCOM
+    Enrollment: 01824588822
+    ✅ IMAGE FOUND: VINITA JAIN
+    URL: https://assets.ipuranklist.com/12779fd3-714b-417c-b3a6-f3d0aa721cea.jpeg
+
+[235] Testing: BCOM | Batch 22 | College 967 | BCOM
+    Enrollment: 00496788822
+    ✅ IMAGE FOUND: VANSH BHARDWAJ
+    URL: https://assets.ipuranklist.com/1eb07adf-62ae-48f2-ab52-e7e2f18b20df.jpeg
+
+[236] Testing: BCOM | Batch 22 | College 193 | BCOM
+    Enrollment: 70119388822
+    ❌ NO IMAGE AVAILABLE
+
+[237] Testing: BCOM | Batch 22 | College 192 | BCOM
+    Enrollment: 80319288822
+    ❌ NO IMAGE AVAILABLE
+
+[238] Testing: BCOM | Batch 22 | College 147 | BCOM
+    Enrollment: 00814788822
+    ✅ IMAGE FOUND: SIDDHI AGRAWAL
+    URL: https://assets.ipuranklist.com/cf9d923c-19e2-4175-b67a-fa2248f7d67f.jpeg
+
+[239] Testing: BCOM | Batch 22 | College 611 | BCOM
+    Enrollment: 01261188822
+    ✅ IMAGE FOUND: YOG MEHRA
+    URL: https://assets.ipuranklist.com/65883151-d53d-4ed3-bd7b-4c28e5dd841a.jpeg
+
+[240] Testing: BCOM | Batch 22 | College 149 | BCOM
+    Enrollment: 02914988822
+    ✅ IMAGE FOUND: SARTHAK JAJU
+    URL: https://assets.ipuranklist.com/0c9543ab-1d4b-4550-983a-892da93351c3.jpeg
+
+[241] Testing: BCOM | Batch 22 | College 206 | BCOM
+    Enrollment: 02320688822
+    ✅ IMAGE FOUND: ISHITA
+    URL: https://assets.ipuranklist.com/eed34550-058e-4ed6-8df5-1002c207b8c0.jpeg
+
+[242] Testing: BCOM | Batch 22 | College 240 | BCOM
+    Enrollment: 35424088822
+    ❌ NO IMAGE AVAILABLE
+
+[243] Testing: BCOM | Batch 22 | College 177 | BCOM
+    Enrollment: 07617788822
+    ✅ IMAGE FOUND: MUSKAAN JAIN
+    URL: https://assets.ipuranklist.com/4cdeb630-b019-4a6c-a98e-1ee4e6dad79a.jpeg
+
+[244] Testing: BCA | Batch 22 | College 120 | BCA
+    Enrollment: 01312002022
+    ✅ IMAGE FOUND: HIDA ISMAIL
+    URL: https://assets.ipuranklist.com/dfd2dffc-69fe-4839-93d7-c44066eb122e.jpeg
+
+[245] Testing: BCA | Batch 22 | College 215 | BCA
+    Enrollment: 02121502022
+    ✅ IMAGE FOUND: ARMAAN AGGARWAL
+    URL: https://assets.ipuranklist.com/067f5fa4-bcb7-4628-afbc-acfa4c22a4b1.jpeg
+
+[246] Testing: BCA | Batch 22 | College 242 | BCA
+    Enrollment: 01024202022
+    ✅ IMAGE FOUND: PRANAY KUMAR
+    URL: https://assets.ipuranklist.com/dffba0fe-5d40-4d52-b3d8-f69123ed4d2a.jpeg
+
+[247] Testing: BCA | Batch 22 | College 514 | BCA
+    Enrollment: 01851402022
+    ✅ IMAGE FOUND: MUSKAN
+    URL: https://assets.ipuranklist.com/fd6e87da-9064-41f8-a786-a742d6e57a00.jpeg
+
+[248] Testing: BCA | Batch 22 | College 901 | BCA
+    Enrollment: 00290102022
+    ✅ IMAGE FOUND: EKANSH VERMA
+    URL: https://assets.ipuranklist.com/f97282e0-069b-4c7c-b360-b83dad854fa5.jpeg
+
+[249] Testing: BCA | Batch 22 | College 244 | BCA
+    Enrollment: 05024402022
+    ❌ NO IMAGE AVAILABLE
+
+[250] Testing: BCA | Batch 22 | College 903 | BCA
+    Enrollment: 02490302022
+    ❌ NO IMAGE AVAILABLE
+
+[251] Testing: BCA | Batch 22 | College 137 | BCA
+    Enrollment: 06313702022
+    ❌ NO IMAGE AVAILABLE
+
+[252] Testing: BCA | Batch 22 | College 211 | BCA
+    Enrollment: 03221102022
+    ❌ NO IMAGE AVAILABLE
+
+[253] Testing: BCA | Batch 22 | College 140 | BCA
+    Enrollment: 04214002022
+    ❌ NO IMAGE AVAILABLE
+
+[254] Testing: BCA | Batch 22 | College 504 | BCA
+    Enrollment: 03250402022
+    ❌ NO IMAGE AVAILABLE
+
+[255] Testing: BCA | Batch 22 | College 142 | BCA
+    Enrollment: 02914202022
+    ❌ NO IMAGE AVAILABLE
+
+[256] Testing: BCA | Batch 22 | College 214 | BCA
+    Enrollment: 03121402022
+    ❌ NO IMAGE AVAILABLE
+
+[257] Testing: BCA | Batch 22 | College 255 | BCA
+    Enrollment: 03125502022
+    ❌ NO IMAGE AVAILABLE
+
+[258] Testing: BCA | Batch 22 | College 967 | BCA
+    Enrollment: 01196702022
+    ❌ NO IMAGE AVAILABLE
+
+[259] Testing: BCA | Batch 22 | College 144 | BCA
+    Enrollment: 01514402022
+    ❌ NO IMAGE AVAILABLE
+
+[260] Testing: BCA | Batch 22 | College 149 | BCA
+    Enrollment: 08914902022
+    ❌ NO IMAGE AVAILABLE
+
+[261] Testing: BCA | Batch 22 | College 212 | BCA
+    Enrollment: 00521202022
+    ❌ NO IMAGE AVAILABLE
+
+[262] Testing: BCA | Batch 22 | College 158 | BCA
+    Enrollment: 00115802022
+    ❌ NO IMAGE AVAILABLE
+
+[263] Testing: BCA | Batch 22 | College 247 | BCA
+    Enrollment: 01024702022
+    ❌ NO IMAGE AVAILABLE
+
+[264] Testing: BCA | Batch 22 | College 902 | BCA
+    Enrollment: 05290202022
+    ❌ NO IMAGE AVAILABLE
+
+[265] Testing: BCA | Batch 22 | College 167 | BCA
+    Enrollment: 01216702022
+    ❌ NO IMAGE AVAILABLE
+
+[266] Testing: BCA | Batch 22 | College 243 | BCA
+    Enrollment: 05024302022
+    ❌ NO IMAGE AVAILABLE
+
+[267] Testing: BCA | Batch 22 | College 206 | BCA
+    Enrollment: 03020602022
+    ❌ NO IMAGE AVAILABLE
+
+[268] Testing: BCA | Batch 22 | College 240 | BCA
+    Enrollment: 01824002022
+    ❌ NO IMAGE AVAILABLE
+
+[269] Testing: BCA | Batch 22 | College 177 | BCA
+    Enrollment: 06317702022
+    ✅ IMAGE FOUND: HARSH VASHISHTH
+    URL: https://assets.ipuranklist.com/df6db34d-0b33-4a80-9be2-e12a7ad0ba29.jpeg
+
+[270] Testing: BCA | Batch 22 | College 298 | BCA
+    Enrollment: 10229802022
+    ✅ IMAGE FOUND: NEHA ROCHWANI
+    URL: https://assets.ipuranklist.com/841b1191-dc45-4ad6-84bb-708c14e30228.jpeg
+
+[271] Testing: BDES | Batch 22 | College 182 | GENERAL-416
+    Enrollment: 03518241622
+    ❌ NO IMAGE AVAILABLE
+
+
+============================================================
+📊 SCAN SUMMARY
+============================================================
+Total combinations tested: 271
+✅ With images: 214
+❌ Without images: 57
+Success rate: 79.0%
+
+📄 Detailed report saved to: image_availability_report.json
+============================================================
+
+⚠️  COMBINATIONS WITHOUT IMAGES (WILL BE REMOVED):
+------------------------------------------------------------
+  • BA | Batch 22 | College 514 | ENGLISH
+  • BA | Batch 22 | College 901 | ENGLISH
+  • BA | Batch 22 | College 274 | JMC
+  • BA | Batch 22 | College 170 | JMC
+  • BA | Batch 22 | College 213 | JMC
+  • BTECH | Batch 22 | College 133 | AIML
+  • BTECH | Batch 22 | College 255 | AIML
+  • BTECH | Batch 22 | College 160 | BT
+  • BTECH | Batch 22 | College 156 | CIV
+  • BTECH | Batch 22 | College 115 | CSE
+  • BTECH | Batch 22 | College 768 | CSE
+  • BTECH | Batch 22 | College 148 | CSE
+  • BTECH | Batch 22 | College 164 | CSE
+  • BTECH | Batch 22 | College 962 | ECE
+  • BTECH | Batch 22 | College 156 | ECE
+  • BTECH | Batch 22 | College 148 | EEE
+  • BTECH | Batch 22 | College 177 | IOT
+  • BTECH | Batch 22 | College 962 | IT
+  • BTECH | Batch 22 | College 156 | IT
+  • BTECH | Batch 22 | College 208 | IT
+  • BTECH | Batch 22 | College 115 | IT
+  • BTECH | Batch 22 | College 272 | IT
+  • BTECH | Batch 22 | College 768 | IT
+  • BTECH | Batch 22 | College 132 | IT
+  • BTECH | Batch 22 | College 148 | IT
+  • BTECH | Batch 22 | College 963 | IT
+  • BTECH | Batch 22 | College 279 | IT
+  • BTECH | Batch 22 | College 148 | ITE
+  • BTECH | Batch 22 | College 133 | ME
+  • LLB | Batch 22 | College 511 | BBA%26LLB
+  • MBA | Batch 22 | College 166 | A
+  • MBA | Batch 22 | College 166 | WEEKEND
+  • MPLAN | Batch 22 | College 173 | MPLAN
+  • BCOM | Batch 22 | College 193 | BCOM
+  • BCOM | Batch 22 | College 192 | BCOM
+  • BCOM | Batch 22 | College 240 | BCOM
+  • BCA | Batch 22 | College 244 | BCA
+  • BCA | Batch 22 | College 903 | BCA
+  • BCA | Batch 22 | College 137 | BCA
+  • BCA | Batch 22 | College 211 | BCA
+  • BCA | Batch 22 | College 140 | BCA
+  • BCA | Batch 22 | College 504 | BCA
+  • BCA | Batch 22 | College 142 | BCA
+  • BCA | Batch 22 | College 214 | BCA
+  • BCA | Batch 22 | College 255 | BCA
+  • BCA | Batch 22 | College 967 | BCA
+  • BCA | Batch 22 | College 144 | BCA
+  • BCA | Batch 22 | College 149 | BCA
+  • BCA | Batch 22 | College 212 | BCA
+  • BCA | Batch 22 | College 158 | BCA
+  • BCA | Batch 22 | College 247 | BCA
+  • BCA | Batch 22 | College 902 | BCA
+  • BCA | Batch 22 | College 167 | BCA
+  • BCA | Batch 22 | College 243 | BCA
+  • BCA | Batch 22 | College 206 | BCA
+  • BCA | Batch 22 | College 240 | BCA
+  • BDES | Batch 22 | College 182 | GENERAL-416
+------------------------------------------------------------

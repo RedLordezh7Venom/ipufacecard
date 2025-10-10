@@ -55,6 +55,28 @@ done
 }
 ```
 
+
+----images not available : 
+for some batches, there were no images,so need to cleant hem out too in scan_image_availability.py
+============================================================
+STEP 2: REMOVING ENTRIES WITHOUT IMAGES
+============================================================
+
+
+🔧 Removing entries without images from CSV...
+
+Valid combinations with images: 214
+✅ Backup created: enrollments22_backup.csv
+
+✅ Kept: 16458 entries
+❌ Removed: 4140 entries (no images)
+📄 Updated CSV: enrollments22.csv
+
+✨ Done!
+📋 Logs saved to: image_avail.txt
+📊 Report saved to: image_availability_report.json
+💾 Backup saved to: enrollments22_backup.csv
+✅ enrollments22.csv now contains only entries with images!
 ---
 
 ## 🛠 Technical Implementation Steps
