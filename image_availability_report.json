@@ -1,0 +1,2394 @@
+{
+  "with_images": [
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "ENGLISH",
+      "enrollment_tested": "00917721722",
+      "name": "YUVNA TANDON",
+      "image_url": "https://assets.ipuranklist.com/821964e8-88ab-45be-8b75-d5f0d3218d8d.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "116",
+      "branch": "JMC",
+      "enrollment_tested": "01811602422",
+      "name": "ANANYA JHA",
+      "image_url": "https://assets.ipuranklist.com/d5511310-1162-4bb7-b85c-5a7c6ba071ae.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "511",
+      "branch": "JMC",
+      "enrollment_tested": "04451102422",
+      "name": "TWINKLE GARG",
+      "image_url": "https://assets.ipuranklist.com/c2c6ea01-bec3-482f-ae56-a4ec778bad1e.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "912",
+      "branch": "JMC",
+      "enrollment_tested": "01491202422",
+      "name": "NIKITA KANDPAL",
+      "image_url": "https://assets.ipuranklist.com/f4847cc7-f0c6-4a13-a0f7-eafd96eec8e3.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "JMC",
+      "enrollment_tested": "00590102422",
+      "name": "ANAMIKA PRIYA",
+      "image_url": "https://assets.ipuranklist.com/6199f6b0-b73a-4d37-9a38-69f9a2f4943b.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "142",
+      "branch": "JMC",
+      "enrollment_tested": "01114202422",
+      "name": "TAVISHI GOSAIN",
+      "image_url": "https://assets.ipuranklist.com/81ca4450-79d6-4725-adf7-4d3d26633268.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "214",
+      "branch": "JMC",
+      "enrollment_tested": "02621402422",
+      "name": "TANYA BATRA",
+      "image_url": "https://assets.ipuranklist.com/4929f6f1-98f2-4b3e-a9aa-7047cb2acc34.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "JMC",
+      "enrollment_tested": "00325502422",
+      "name": "ARPANA JHA",
+      "image_url": "https://assets.ipuranklist.com/da976a61-4954-4448-9e5c-8691466fafb8.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "192",
+      "branch": "JMC",
+      "enrollment_tested": "00219202422",
+      "name": "MANISHA SHAH",
+      "image_url": "https://assets.ipuranklist.com/818d61af-4757-4751-a699-8fb88b654342.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "147",
+      "branch": "JMC",
+      "enrollment_tested": "03114702422",
+      "name": "SHIVIKA MAHAJAN",
+      "image_url": "https://assets.ipuranklist.com/2eae7e11-b21a-4061-ae34-b1cd20f180cd.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "611",
+      "branch": "JMC",
+      "enrollment_tested": "02661102422",
+      "name": "ANSH MANGHA",
+      "image_url": "https://assets.ipuranklist.com/723c760b-1531-45fd-b94d-6103646a50dc.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "151",
+      "branch": "JMC",
+      "enrollment_tested": "01515102422",
+      "name": "MANSI AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/980b2f41-527b-44ee-a473-9d67f52611e3.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "206",
+      "branch": "JMC",
+      "enrollment_tested": "01420602422",
+      "name": "DIVYA DUA",
+      "image_url": "https://assets.ipuranklist.com/547aa0f1-9d93-4604-9694-4c48f7e63fd2.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "240",
+      "branch": "JMC",
+      "enrollment_tested": "03324002422",
+      "name": "VANISHA BHATNAGAR",
+      "image_url": "https://assets.ipuranklist.com/5ebcc75e-e7f8-4078-a5d1-b8de78282f74.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "JMC",
+      "enrollment_tested": "08317702422",
+      "name": "ISHITA ARORA",
+      "image_url": "https://assets.ipuranklist.com/5cce5473-31d5-4fb0-b05b-7aa7c1409b0d.jpeg"
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "298",
+      "branch": "JMC",
+      "enrollment_tested": "08529802422",
+      "name": "ANVI JAIN",
+      "image_url": "https://assets.ipuranklist.com/20dc2a80-8f53-4f7e-90fd-1fd0f55e12f7.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "149",
+      "branch": "B%26I",
+      "enrollment_tested": "08614901822",
+      "name": "PUNISHKA GAMBHIR",
+      "image_url": "https://assets.ipuranklist.com/75b0419f-92e2-4788-b354-6f70809f6c17.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "212",
+      "branch": "B%26I",
+      "enrollment_tested": "03921201822",
+      "name": "TANISHA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/9da8ab3a-257c-43a4-a30a-9248aa3ab9d0.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "902",
+      "branch": "B%26I",
+      "enrollment_tested": "01290201822",
+      "name": "RACHITA GOEL",
+      "image_url": "https://assets.ipuranklist.com/1cbfc7b3-09da-4ffd-8f11-a4b72efe4258.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "215",
+      "branch": "CAM",
+      "enrollment_tested": "00721501922",
+      "name": "MEHAK BAJETHA",
+      "image_url": "https://assets.ipuranklist.com/41bea2d6-635d-47db-a8fc-1e55612b7766.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "242",
+      "branch": "CAM",
+      "enrollment_tested": "80124201922",
+      "name": "AMAN TIWARI",
+      "image_url": "https://assets.ipuranklist.com/01e66ee9-97d9-410b-87b2-796671334fc1.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "134",
+      "branch": "CAM",
+      "enrollment_tested": "70113401922",
+      "name": "PRATEEK GARG",
+      "image_url": "https://assets.ipuranklist.com/1e49f07f-b095-46de-8655-ef568d9b7bb0.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "210",
+      "branch": "CAM",
+      "enrollment_tested": "01621001922",
+      "name": "ARJUN SHARMA",
+      "image_url": "https://assets.ipuranklist.com/5dd355b2-7b22-4da7-922e-ac94c4989283.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "505",
+      "branch": "G",
+      "enrollment_tested": "00650501722",
+      "name": "ANJALI GUPTA",
+      "image_url": "https://assets.ipuranklist.com/8d1da0d0-0311-4ded-b3b0-049f66709886.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "612",
+      "branch": "G",
+      "enrollment_tested": "05161201722",
+      "name": "ASHMIT KUMAR",
+      "image_url": "https://assets.ipuranklist.com/e43bd794-9d72-4d30-9143-9a9431109043.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "215",
+      "branch": "G",
+      "enrollment_tested": "01421501722",
+      "name": "YAMINI",
+      "image_url": "https://assets.ipuranklist.com/e8cd9d88-8107-4b7d-a5fd-f773c28f27df.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "242",
+      "branch": "G",
+      "enrollment_tested": "70124201722",
+      "name": "MANYA SINHA",
+      "image_url": "https://assets.ipuranklist.com/51579adf-19b1-4770-a2e7-b18de2116d90.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "124",
+      "branch": "G",
+      "enrollment_tested": "00212401722",
+      "name": "KASHISH SINGHAL",
+      "image_url": "https://assets.ipuranklist.com/6601cfa6-0c86-4ad0-a8cc-e21d26d051eb.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "511",
+      "branch": "G",
+      "enrollment_tested": "06051101722",
+      "name": "ANANYA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/5c16cc57-b263-4dcf-97a9-623368cd3168.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "125",
+      "branch": "G",
+      "enrollment_tested": "01712501722",
+      "name": "SAKSHAM BABBAR",
+      "image_url": "https://assets.ipuranklist.com/4350e7ab-c4e2-4c11-a8da-cf0885c79720.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "217",
+      "branch": "G",
+      "enrollment_tested": "03321701722",
+      "name": "DEVANSH ARORA",
+      "image_url": "https://assets.ipuranklist.com/0cce8ed1-cc28-49ce-a640-8aa26a5b631d.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "514",
+      "branch": "G",
+      "enrollment_tested": "06951401722",
+      "name": "RITUL GODARA",
+      "image_url": "https://assets.ipuranklist.com/2a9f0868-2077-44a3-8005-4eca464b1c15.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "G",
+      "enrollment_tested": "02090101722",
+      "name": "SMRITI NAURIYAL",
+      "image_url": "https://assets.ipuranklist.com/14e0bb7a-7ee0-4716-b105-3b62945bec34.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "134",
+      "branch": "G",
+      "enrollment_tested": "03513401722",
+      "name": "TUSHAR DHALLA",
+      "image_url": "https://assets.ipuranklist.com/24db361a-5d73-4f54-bf97-a895187f50a8.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "210",
+      "branch": "G",
+      "enrollment_tested": "04721001722",
+      "name": "SANCHI JAIN",
+      "image_url": "https://assets.ipuranklist.com/42ffc7f2-3b71-41f8-bd3f-6a79ca32379f.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "244",
+      "branch": "G",
+      "enrollment_tested": "10424401722",
+      "name": "KHUSHI KANWAL",
+      "image_url": "https://assets.ipuranklist.com/ec911343-a78f-4bfa-b9d4-ad76e1637ea0.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "903",
+      "branch": "G",
+      "enrollment_tested": "12290301722",
+      "name": "PARNIKA KHILRANI",
+      "image_url": "https://assets.ipuranklist.com/92a7ddc5-3493-4c05-b11e-39aa048e48f3.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "137",
+      "branch": "G",
+      "enrollment_tested": "04413701722",
+      "name": "SUHANI GUPTA",
+      "image_url": "https://assets.ipuranklist.com/3808c704-d3d0-4445-b8cf-b084cf878198.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "211",
+      "branch": "G",
+      "enrollment_tested": "07821101722",
+      "name": "BHAVYA AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/63a4bcc2-8dda-4d92-922c-51f91ea91fe4.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "141",
+      "branch": "G",
+      "enrollment_tested": "00314101722",
+      "name": "PRIYANSHI AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/94d2e879-817e-4396-9de1-c61accbbde4b.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "245",
+      "branch": "G",
+      "enrollment_tested": "03124501722",
+      "name": "CHARVEE GUPTA",
+      "image_url": "https://assets.ipuranklist.com/0e0f869f-04f3-49f5-a25b-a90ba81a5e4e.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "140",
+      "branch": "G",
+      "enrollment_tested": "05514001722",
+      "name": "SHREYA BAJAJ",
+      "image_url": "https://assets.ipuranklist.com/451186c4-2189-4fd2-a770-a5985497e487.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "504",
+      "branch": "G",
+      "enrollment_tested": "06250401722",
+      "name": "YASHICA JETHANI",
+      "image_url": "https://assets.ipuranklist.com/005d3a44-fb8b-4fe3-8af0-0b71ab9761ed.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "142",
+      "branch": "G",
+      "enrollment_tested": "02614201722",
+      "name": "AARSHA GOKUL",
+      "image_url": "https://assets.ipuranklist.com/5b4a966d-d0da-44eb-b241-40c581c7e0d2.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "214",
+      "branch": "G",
+      "enrollment_tested": "05421401722",
+      "name": "LAKSHAY DUA",
+      "image_url": "https://assets.ipuranklist.com/8bb9d467-bca2-45b1-a467-63d940ae1da5.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "G",
+      "enrollment_tested": "01425501722",
+      "name": "ADITI GUPTA",
+      "image_url": "https://assets.ipuranklist.com/d0dfe34b-6367-4725-bb8e-2354ae05d460.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "967",
+      "branch": "G",
+      "enrollment_tested": "01696701722",
+      "name": "DIKSHA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/41ec5191-99d0-4878-b57b-69d6b1d8ad33.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "193",
+      "branch": "G",
+      "enrollment_tested": "03019301722",
+      "name": "SAMRIDHI",
+      "image_url": "https://assets.ipuranklist.com/68ad408b-76ae-40ac-a1f7-15bf0618531b.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "515",
+      "branch": "G",
+      "enrollment_tested": "02051501722",
+      "name": "MANYA SAXENA",
+      "image_url": "https://assets.ipuranklist.com/53f76d4e-1be1-4957-acde-e5489898b7df.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "192",
+      "branch": "G",
+      "enrollment_tested": "05219201722",
+      "name": "General",
+      "image_url": "https://assets.ipuranklist.com/b0a3c6e9-ff72-4f8a-80e9-5c563dd8c734.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "147",
+      "branch": "G",
+      "enrollment_tested": "10114701722",
+      "name": "RAGHAV AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/c5082a03-6ca1-466e-90cb-fd88e69b15a5.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "611",
+      "branch": "G",
+      "enrollment_tested": "03161101722",
+      "name": "UNNATI BANSAL",
+      "image_url": "https://assets.ipuranklist.com/e5df7412-228e-4cf3-b07d-77a04f3e1a20.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "151",
+      "branch": "G",
+      "enrollment_tested": "03415101722",
+      "name": "GEETANSHI GROVER",
+      "image_url": "https://assets.ipuranklist.com/474f9b39-ea61-4e9d-931b-24ed2b4a314d.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "149",
+      "branch": "G",
+      "enrollment_tested": "15514901722",
+      "name": "POORVI GUPTA",
+      "image_url": "https://assets.ipuranklist.com/077eab7c-b611-4201-a29b-e1366d222b90.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "212",
+      "branch": "G",
+      "enrollment_tested": "01221201722",
+      "name": "KUNAL MALHOTRA",
+      "image_url": "https://assets.ipuranklist.com/01d0b6f1-d8f2-441f-9e4e-1d8263c19a34.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "155",
+      "branch": "G",
+      "enrollment_tested": "11715501722",
+      "name": "YAMIKA ANEJA",
+      "image_url": "https://assets.ipuranklist.com/372afa65-75a9-4d04-a131-5be774cc38ae.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "506",
+      "branch": "G",
+      "enrollment_tested": "00150601722",
+      "name": "General",
+      "image_url": "https://assets.ipuranklist.com/a825ff2a-734c-4f6f-b70d-e714c7b0ca07.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "159",
+      "branch": "G",
+      "enrollment_tested": "13015901722",
+      "name": "DRISHTI VAID",
+      "image_url": "https://assets.ipuranklist.com/102c73de-d7b3-4ee1-ad46-913dcc1459e6.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "803",
+      "branch": "G",
+      "enrollment_tested": "35380301722",
+      "name": "RIYA BANSAL",
+      "image_url": "https://assets.ipuranklist.com/2c23a1fe-ebb6-42ce-ada0-e2835458be12.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "247",
+      "branch": "G",
+      "enrollment_tested": "00224701722",
+      "name": "MUSKAN SHARMA",
+      "image_url": "https://assets.ipuranklist.com/b2a60e69-f7ab-4f97-b127-0655488f42bf.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "902",
+      "branch": "G",
+      "enrollment_tested": "04990201722",
+      "name": "LEELA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/f206ad57-5272-4781-a1c6-1bb900a209ce.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "969",
+      "branch": "G",
+      "enrollment_tested": "02396901722",
+      "name": "ANUSHKA JINDAL",
+      "image_url": "https://assets.ipuranklist.com/0fc8797f-b5b3-4fc3-a608-d46423b89d86.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "170",
+      "branch": "G",
+      "enrollment_tested": "06617001722",
+      "name": "SHRUTI JAIN",
+      "image_url": "https://assets.ipuranklist.com/37a1e290-ffe7-4df7-ab66-dbcb1dc40719.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "213",
+      "branch": "G",
+      "enrollment_tested": "10421301722",
+      "name": "VIVEK KUMAR LUNAWAT",
+      "image_url": "https://assets.ipuranklist.com/a35f864c-c2e4-489d-95ab-724deccfa237.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "206",
+      "branch": "G",
+      "enrollment_tested": "01820601722",
+      "name": "TANISHA GUPTA",
+      "image_url": "https://assets.ipuranklist.com/040441ff-4d5d-45ae-bab6-ca38d72bc0c0.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "240",
+      "branch": "G",
+      "enrollment_tested": "00924001722",
+      "name": "PRATYUSH UNIYAL",
+      "image_url": "https://assets.ipuranklist.com/79ed9c20-f99a-4282-99b0-7ed7b79cd002.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "G",
+      "enrollment_tested": "35717701722",
+      "name": "ASHI BANSAL",
+      "image_url": "https://assets.ipuranklist.com/41d28131-1658-4655-8e41-faae94972f60.jpeg"
+    },
+    {
+      "course": "bba",
+      "batch": "22",
+      "college_id": "298",
+      "branch": "G",
+      "enrollment_tested": "01929801722",
+      "name": "SPARSH SINGHAL",
+      "image_url": "https://assets.ipuranklist.com/c5fc6e8c-bcce-4e5e-a682-0874c7a8ec61.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "108",
+      "branch": "GENERAL",
+      "enrollment_tested": "03610802122",
+      "name": "PRAGYA PANDEY",
+      "image_url": "https://assets.ipuranklist.com/d50758d7-b88a-41ce-911f-c10304dfe84a.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "124",
+      "branch": "GENERAL",
+      "enrollment_tested": "01212402122",
+      "name": "JANVI GAUR",
+      "image_url": "https://assets.ipuranklist.com/8b9c754c-7ea1-426c-ae0d-c12fc80135e8.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "402",
+      "branch": "GENERAL",
+      "enrollment_tested": "01740202122",
+      "name": "SUBHRO SANKAR SAHA",
+      "image_url": "https://assets.ipuranklist.com/8b321a10-6bfa-4303-a48f-7d553e3190bb.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "GENERAL",
+      "enrollment_tested": "01290102122",
+      "name": "SHREYA MISHRA",
+      "image_url": "https://assets.ipuranklist.com/381db69f-c733-4b1d-bc62-e9cab73985ca.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "128",
+      "branch": "GENERAL",
+      "enrollment_tested": "02312802122",
+      "name": "KANCHAN",
+      "image_url": "https://assets.ipuranklist.com/e82a371e-8dcd-4345-90de-0bf1c70c5011.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "129",
+      "branch": "GENERAL",
+      "enrollment_tested": "06412902122",
+      "name": "ANJALI",
+      "image_url": "https://assets.ipuranklist.com/697f5ee8-a7aa-4a21-b2ae-0b64ce336cbb.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "218",
+      "branch": "GENERAL",
+      "enrollment_tested": "02321802122",
+      "name": "SIMRAN JYOT KAUR",
+      "image_url": "https://assets.ipuranklist.com/8198bee4-3042-431b-86dc-57ce955bbb5a.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "139",
+      "branch": "GENERAL",
+      "enrollment_tested": "06313902122",
+      "name": "PUNEETA SINGH BISHT",
+      "image_url": "https://assets.ipuranklist.com/8ed98470-2222-4fb0-a6ec-4ac97b1fb9ac.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "GENERAL",
+      "enrollment_tested": "02625502122",
+      "name": "YUKTA AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/219ca72d-d533-465f-9b39-7514d3c0c074.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "967",
+      "branch": "GENERAL",
+      "enrollment_tested": "05396702122",
+      "name": "SHALU RANI",
+      "image_url": "https://assets.ipuranklist.com/abae4469-d2e3-41c0-80d5-fa823872fdbb.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "144",
+      "branch": "GENERAL",
+      "enrollment_tested": "05214402122",
+      "name": "RIMPA KAR",
+      "image_url": "https://assets.ipuranklist.com/0c90e8ce-c27e-4a62-9c09-4df038f28dda.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "193",
+      "branch": "GENERAL",
+      "enrollment_tested": "01219302122",
+      "name": "MAHIMA",
+      "image_url": "https://assets.ipuranklist.com/725224af-4c84-49b6-8996-fff6f9ce183f.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "192",
+      "branch": "GENERAL",
+      "enrollment_tested": "03319202122",
+      "name": "MEGHA AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/037dfacd-44f9-4354-aaf6-500d5b4fc712.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "149",
+      "branch": "GENERAL",
+      "enrollment_tested": "00314902122",
+      "name": "SHILPA NANDI",
+      "image_url": "https://assets.ipuranklist.com/07a4d7fa-ec19-4aab-8d19-fe460b1e75ba.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "157",
+      "branch": "GENERAL",
+      "enrollment_tested": "00415702122",
+      "name": "KASHISH GUPTA",
+      "image_url": "https://assets.ipuranklist.com/8629d7e0-83d8-41f1-866a-4d2304b97f9f.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "158",
+      "branch": "GENERAL",
+      "enrollment_tested": "01115802122",
+      "name": "DEEPALI SAXENA",
+      "image_url": "https://assets.ipuranklist.com/729f2b36-f668-4427-9aee-bfc9e8ad21fb.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "181",
+      "branch": "GENERAL",
+      "enrollment_tested": "05818102122",
+      "name": "ADITI NAGPAL",
+      "image_url": "https://assets.ipuranklist.com/b1d129ba-63a7-4486-9261-c778035f2702.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "969",
+      "branch": "GENERAL",
+      "enrollment_tested": "07396902122",
+      "name": "GUNJAN VERMA",
+      "image_url": "https://assets.ipuranklist.com/b1875e39-8824-42c7-947b-80688276c8f5.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "799",
+      "branch": "GENERAL",
+      "enrollment_tested": "00779902122",
+      "name": "MANPREET KAUR",
+      "image_url": "https://assets.ipuranklist.com/20047faa-b117-49f5-8b9c-3b1373759927.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "999",
+      "branch": "GENERAL",
+      "enrollment_tested": "08399902122",
+      "name": "ANURADHA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/8b04bc33-bd24-49fd-9d25-5bdc4236c660.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "970",
+      "branch": "GENERAL",
+      "enrollment_tested": "00697002122",
+      "name": "RIYA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/b3236512-4e5b-4821-a104-a311fd1b6891.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "174",
+      "branch": "GENERAL",
+      "enrollment_tested": "00817402122",
+      "name": "TANIYA CHADHA",
+      "image_url": "https://assets.ipuranklist.com/e923d7df-1457-4d9d-b30f-01f820d4b85d.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "523",
+      "branch": "ASD",
+      "enrollment_tested": "01052312422",
+      "name": "ASHA BAIRWA",
+      "image_url": "https://assets.ipuranklist.com/a28bfbd3-735a-465d-8ac0-25ef9ad2633a.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "523",
+      "branch": "HI",
+      "enrollment_tested": "00652312222",
+      "name": "Hearing Impairment",
+      "image_url": "https://assets.ipuranklist.com/77217dbd-4254-4ac6-bf91-b826ad28805b.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "523",
+      "branch": "ID",
+      "enrollment_tested": "02052312522",
+      "name": "MUSKAN",
+      "image_url": "https://assets.ipuranklist.com/ceb2d24b-b853-4cad-a030-8f027c7d8c04.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "178",
+      "branch": "ID",
+      "enrollment_tested": "00917812522",
+      "name": "ANNAPURNA BIDAWAT",
+      "image_url": "https://assets.ipuranklist.com/635ad88d-ad68-4bfa-afd3-5bd914300ea1.jpeg"
+    },
+    {
+      "course": "bed",
+      "batch": "22",
+      "college_id": "523",
+      "branch": "VI",
+      "enrollment_tested": "00552312622",
+      "name": "AMARDEEP KUMAR ARYA",
+      "image_url": "https://assets.ipuranklist.com/bea18a88-0208-4208-bf27-c31aa6fb253e.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "AIDS",
+      "enrollment_tested": "20315611922",
+      "name": "R SURYA",
+      "image_url": "https://assets.ipuranklist.com/7bdd5975-81a9-4800-97db-124bc2281258.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "180",
+      "branch": "AIDS",
+      "enrollment_tested": "02118011922",
+      "name": "ASHMITA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/2feb6cca-e9a9-4175-8b94-c179bff54579.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "133",
+      "branch": "AIDS",
+      "enrollment_tested": "20113311922",
+      "name": "VANSHIKA BHARDWAJ",
+      "image_url": "https://assets.ipuranklist.com/9f7e3127-e00b-4e4b-b6be-d886dfcd3a21.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "AIDS",
+      "enrollment_tested": "01125511922",
+      "name": "DHRUV NARAYAN RAINA",
+      "image_url": "https://assets.ipuranklist.com/a18c9a8a-1f16-438c-b9ab-d83894f17b8c.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "190",
+      "branch": "AIDS",
+      "enrollment_tested": "13319051922",
+      "name": "DHAIRYA GUPTA",
+      "image_url": "https://assets.ipuranklist.com/6bb845d7-17b1-4e32-bfe7-96e14ae4dabb.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "AIDS",
+      "enrollment_tested": "20117711922",
+      "name": "SUHANI SINGHAL",
+      "image_url": "https://assets.ipuranklist.com/f5d9bf3b-50b9-465b-9997-70457493b808.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "AIML",
+      "enrollment_tested": "04015611622",
+      "name": "KOMAL GOEL",
+      "image_url": "https://assets.ipuranklist.com/a14243f0-d078-417c-a453-f87fd123e4da.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "553",
+      "branch": "AIML",
+      "enrollment_tested": "00255311622",
+      "name": "TEENU JAIN",
+      "image_url": "https://assets.ipuranklist.com/e80c71d1-7496-4726-82d6-8953c726851c.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "180",
+      "branch": "AIML",
+      "enrollment_tested": "01618011622",
+      "name": "SNEHA PANDEY",
+      "image_url": "https://assets.ipuranklist.com/cfc13a91-48b7-4488-b10c-be8bcfef1250.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "190",
+      "branch": "AIML",
+      "enrollment_tested": "13519051622",
+      "name": "MAYUR RAJ",
+      "image_url": "https://assets.ipuranklist.com/51afa93f-2d1a-4fab-aba3-10585df5e1bb.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "AIML",
+      "enrollment_tested": "02617711622",
+      "name": "ANANYA SWAMI",
+      "image_url": "https://assets.ipuranklist.com/133c40ca-487e-47cd-81ce-17a10434850d.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "190",
+      "branch": "AR",
+      "enrollment_tested": "06419052022",
+      "name": "AMAAN NASEH",
+      "image_url": "https://assets.ipuranklist.com/c6ee5ddc-d31e-46c4-a073-5396b934593e.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "161",
+      "branch": "BCE",
+      "enrollment_tested": "00416100422",
+      "name": "AARUSHI GUPTA",
+      "image_url": "https://assets.ipuranklist.com/08d8e025-56bf-411a-915f-4aaf8452d536.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "962",
+      "branch": "CSE",
+      "enrollment_tested": "00296202722",
+      "name": "ANCHAL JAIN",
+      "image_url": "https://assets.ipuranklist.com/e195a586-9c45-4f47-b7ce-9cdb5f4b9cac.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "CSE",
+      "enrollment_tested": "05315602722",
+      "name": "DEEPTI CHINCHOLI",
+      "image_url": "https://assets.ipuranklist.com/9ff1ef3c-17e0-4aaa-a122-29baa9809845.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "208",
+      "branch": "CSE",
+      "enrollment_tested": "04320802722",
+      "name": "JYOTI AHUJA",
+      "image_url": "https://assets.ipuranklist.com/75736b16-a7d6-41a8-ab96-17cb7f04d629.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "180",
+      "branch": "CSE",
+      "enrollment_tested": "02918002722",
+      "name": "ARNAV SHARMA",
+      "image_url": "https://assets.ipuranklist.com/32bbd1f0-9ee5-40a6-a8a8-e6198b07f052.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "132",
+      "branch": "CSE",
+      "enrollment_tested": "16713202722",
+      "name": "AMANDEEP SINGH",
+      "image_url": "https://assets.ipuranklist.com/fc7c78fc-6214-4569-8137-13ba0cb45677.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "965",
+      "branch": "CSE",
+      "enrollment_tested": "06196502722",
+      "name": "RIDDHIMA SINGH",
+      "image_url": "https://assets.ipuranklist.com/7802a43b-3234-41bd-b811-dc74a6207bc1.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "133",
+      "branch": "CSE",
+      "enrollment_tested": "01013302722",
+      "name": "KHUSHI BANSAL",
+      "image_url": "https://assets.ipuranklist.com/7f538e7d-ea60-477b-8d58-42e5d5ecce3c.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "CSE",
+      "enrollment_tested": "07225502722",
+      "name": "AKANSHA BISHT",
+      "image_url": "https://assets.ipuranklist.com/9ad4eac2-a23b-43aa-960c-31db350d820c.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "964",
+      "branch": "CSE",
+      "enrollment_tested": "00896402722",
+      "name": "JAI OBEROI",
+      "image_url": "https://assets.ipuranklist.com/cf4797f5-0bcf-40f2-846b-abe6e3e98670.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "963",
+      "branch": "CSE",
+      "enrollment_tested": "04296302722",
+      "name": "NIKITA BHATIA",
+      "image_url": "https://assets.ipuranklist.com/e1650439-69f4-4b6b-9719-58a8e5712c4b.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "150",
+      "branch": "CSE",
+      "enrollment_tested": "07715002722",
+      "name": "ARNAV KOHLI",
+      "image_url": "https://assets.ipuranklist.com/5667004a-b643-45f9-8f0f-0e575e86e113.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "551",
+      "branch": "CSE",
+      "enrollment_tested": "00455102722",
+      "name": "PARTH SHARMA",
+      "image_url": "https://assets.ipuranklist.com/5f60acee-684e-47bc-812b-9bc6ec5fc6bf.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "CST",
+      "enrollment_tested": "02614812722",
+      "name": "SAMARPIT AGARWAL",
+      "image_url": "https://assets.ipuranklist.com/56e12c4d-7919-4974-95e8-a8b493d75660.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "279",
+      "branch": "CST",
+      "enrollment_tested": "00427912722",
+      "name": "SNEHA SANTRA",
+      "image_url": "https://assets.ipuranklist.com/1ed8826a-397e-42fc-9b8a-8589faf64e46.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "161",
+      "branch": "CT",
+      "enrollment_tested": "01416101422",
+      "name": "TANISHKA SAXENA",
+      "image_url": "https://assets.ipuranklist.com/282ed938-6699-46c8-8728-a1ad1e70a63c.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "208",
+      "branch": "ECE",
+      "enrollment_tested": "08420802822",
+      "name": "SHALINI SHARMA",
+      "image_url": "https://assets.ipuranklist.com/8f801472-f299-411b-b2d0-218a587846f8.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "115",
+      "branch": "ECE",
+      "enrollment_tested": "00211502822",
+      "name": "AKSHAY GARG",
+      "image_url": "https://assets.ipuranklist.com/20eb81e9-f78d-463d-b5ab-24949ba0c9b3.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "132",
+      "branch": "ECE",
+      "enrollment_tested": "00713202822",
+      "name": "PULKIT AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/6f8527ac-91af-4066-b5e0-8521cdeed5fc.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "ECE",
+      "enrollment_tested": "11014802822",
+      "name": "HIMANSHI JAIN",
+      "image_url": "https://assets.ipuranklist.com/b1bac90c-29f5-42be-b8a4-938c15b22d2b.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "963",
+      "branch": "ECE",
+      "enrollment_tested": "00196302822",
+      "name": "RISHIT RASTOGI",
+      "image_url": "https://assets.ipuranklist.com/6ca7643a-6e04-4811-8a21-6cd524bc6866.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "150",
+      "branch": "ECE",
+      "enrollment_tested": "08215002822",
+      "name": "PRAGATI SHARMA",
+      "image_url": "https://assets.ipuranklist.com/ac35839c-934c-497e-ba6c-c1058de757bf.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "164",
+      "branch": "ECE",
+      "enrollment_tested": "05016412822",
+      "name": "RISHAV DIYALI",
+      "image_url": "https://assets.ipuranklist.com/f283de8a-16af-4465-bab2-ff37af29c4a5.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "208",
+      "branch": "EEE",
+      "enrollment_tested": "01320804922",
+      "name": "YASH MEHRA",
+      "image_url": "https://assets.ipuranklist.com/21dad9bd-5628-470b-9435-f0cef237b230.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "115",
+      "branch": "EEE",
+      "enrollment_tested": "00911504922",
+      "name": "HARSHITA SUNEJA",
+      "image_url": "https://assets.ipuranklist.com/2a3625b1-5177-45e2-a56c-abc5b64dfe89.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "150",
+      "branch": "EEE",
+      "enrollment_tested": "00815004922",
+      "name": "KARTIK TYAGI",
+      "image_url": "https://assets.ipuranklist.com/8ad05b88-3480-4542-a84c-43051916dd29.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "115",
+      "branch": "ICE",
+      "enrollment_tested": "01311503022",
+      "name": "ESHLEEN KAUR MAKKAR",
+      "image_url": "https://assets.ipuranklist.com/3ab8b7e6-dc4d-4920-bde4-d6aafa1477bc.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "190",
+      "branch": "IOT",
+      "enrollment_tested": "20119051722",
+      "name": "AVISHI TYAGI",
+      "image_url": "https://assets.ipuranklist.com/62a1ccae-bfb0-4760-ad29-7f4b557e54b3.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "150",
+      "branch": "IT",
+      "enrollment_tested": "20415003122",
+      "name": "MANAVI SRIVASTAVA",
+      "image_url": "https://assets.ipuranklist.com/233132f8-9397-441e-afee-52ae3a5f6d70.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "164",
+      "branch": "IT",
+      "enrollment_tested": "02716401522",
+      "name": "DHRUV CHADHA",
+      "image_url": "https://assets.ipuranklist.com/70f6f36c-3630-4c30-8764-0358b6579790.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "MAE",
+      "enrollment_tested": "03314803622",
+      "name": "Mechanical and Automation Engineering",
+      "image_url": "https://assets.ipuranklist.com/894bd99e-e45c-4080-a787-f3ceee34bb0d.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "ME",
+      "enrollment_tested": "00415611122",
+      "name": "VIVEK SINGH BHADORIA",
+      "image_url": "https://assets.ipuranklist.com/219b9738-110a-4e63-8af3-a5b7df4b4e39.jpeg"
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "ME",
+      "enrollment_tested": "01714811122",
+      "name": "JAYANT BUDDALA",
+      "image_url": "https://assets.ipuranklist.com/08e4957b-a654-4545-9f42-3b79ef8e717a.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "215",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "03921503822",
+      "name": "PRIYANSHI BINDRA",
+      "image_url": "https://assets.ipuranklist.com/49c4381c-576e-4cb3-83e7-c1fde2ec15e0.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "224",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "00822403822",
+      "name": "Delhi Institute Of Rural Development",
+      "image_url": "https://assets.ipuranklist.com/bfb6e6a7-bfad-4146-b905-8183803b3b36.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "511",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "05451103822",
+      "name": "Delhi Metropolitan Education",
+      "image_url": "https://assets.ipuranklist.com/5ba852fc-b0db-4d03-a07a-b2b40e143803.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "12090103822",
+      "name": "ASHI SANGWAN",
+      "image_url": "https://assets.ipuranklist.com/84e29b84-566d-4322-922d-93c217bf079b.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "134",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "04413403822",
+      "name": "RAJSHREE SAINI",
+      "image_url": "https://assets.ipuranklist.com/c3d8c198-27cd-43f2-9c56-5c067cb52eb5.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "03125503822",
+      "name": "RIDDHI AGARWAL",
+      "image_url": "https://assets.ipuranklist.com/67e80b50-b789-4459-98ca-78fea6d466bb.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "165",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "03716503822",
+      "name": "SANSKRITI SHARMA",
+      "image_url": "https://assets.ipuranklist.com/7a10b3b2-6253-4be4-9516-b4178bd1c60b.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "BA%26LLB",
+      "enrollment_tested": "24317703822",
+      "name": "GEETANSHI DANG",
+      "image_url": "https://assets.ipuranklist.com/a6cd8dfd-dbfd-4d20-b235-3949b5e030e3.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "215",
+      "branch": "BBA%26LLB",
+      "enrollment_tested": "00721503522",
+      "name": "TANYA SHARMA",
+      "image_url": "https://assets.ipuranklist.com/58d5eccd-bf67-4d41-bf85-1e30aa57ecb0.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "BBA%26LLB",
+      "enrollment_tested": "03990103522",
+      "name": "DIKSHA",
+      "image_url": "https://assets.ipuranklist.com/66afb331-e437-4281-a2d1-d0b15d8ef425.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "BBA%26LLB",
+      "enrollment_tested": "01225503522",
+      "name": "SHREYA SINGH",
+      "image_url": "https://assets.ipuranklist.com/ef7ab610-d573-4635-8bfe-7bd2029bfdbb.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "165",
+      "branch": "BBA%26LLB",
+      "enrollment_tested": "04116503522",
+      "name": "ASTHA SINHA",
+      "image_url": "https://assets.ipuranklist.com/fd8836c7-6f8f-4138-89d9-a6b44858ec7d.jpeg"
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "BBA%26LLB",
+      "enrollment_tested": "04217703522",
+      "name": "TAMANNA GOEL",
+      "image_url": "https://assets.ipuranklist.com/aa59e67f-9970-476d-93aa-1b1498f01d98.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "166",
+      "branch": "FA",
+      "enrollment_tested": "02116659422",
+      "name": "ISHIKA GUPTA",
+      "image_url": "https://assets.ipuranklist.com/c5a8b6aa-49ac-4929-8a35-3483cd0ebdd1.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "123",
+      "branch": "FM-595",
+      "enrollment_tested": "00612359522",
+      "name": "SAHIL BEHURA",
+      "image_url": "https://assets.ipuranklist.com/245a29f5-15c0-4967-8b10-fe526efacc6d.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "275",
+      "branch": "GENERAL",
+      "enrollment_tested": "00327503922",
+      "name": "SRISHTI SINGHAL",
+      "image_url": "https://assets.ipuranklist.com/dae7110e-bc23-4158-8ffd-7548c7b1c1a2.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "GENERAL",
+      "enrollment_tested": "02715603922",
+      "name": "KAJAL MISHRA",
+      "image_url": "https://assets.ipuranklist.com/13a845ef-cbd2-4e18-a970-40da73543310.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "184",
+      "branch": "GENERAL",
+      "enrollment_tested": "01518403922",
+      "name": "GUNJAN KATARIA",
+      "image_url": "https://assets.ipuranklist.com/3644f959-98ca-4aa5-805c-02457d98082c.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "612",
+      "branch": "GENERAL",
+      "enrollment_tested": "08661203922",
+      "name": "DEEPIKA DIXIT",
+      "image_url": "https://assets.ipuranklist.com/7593430e-9867-415b-a47b-df68d8d899bc.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "208",
+      "branch": "GENERAL",
+      "enrollment_tested": "00820803922",
+      "name": "SRISHTI BAUNTHIYAL",
+      "image_url": "https://assets.ipuranklist.com/1ca6d934-252b-4d0f-835c-4e04d0ac4bff.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "123",
+      "branch": "GENERAL",
+      "enrollment_tested": "01312303922",
+      "name": "NAMAN GUPTA",
+      "image_url": "https://assets.ipuranklist.com/332ce9a7-8a36-4b83-860f-6a3c132b66a4.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "180",
+      "branch": "GENERAL",
+      "enrollment_tested": "00718003922",
+      "name": "DINESH KUMAR SINGH",
+      "image_url": "https://assets.ipuranklist.com/d89ae053-931b-43e0-ab0e-e517fe8fb429.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "191",
+      "branch": "GENERAL",
+      "enrollment_tested": "02419103922",
+      "name": "KRITIKA KHANNA",
+      "image_url": "https://assets.ipuranklist.com/fe06d4d1-5c0d-4e07-bb1d-891307bff786.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "800",
+      "branch": "GENERAL",
+      "enrollment_tested": "00280003922",
+      "name": "RENU MAKHIJA",
+      "image_url": "https://assets.ipuranklist.com/4c7f478b-29dc-429e-8d2a-517cac8b8b7b.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "137",
+      "branch": "GENERAL",
+      "enrollment_tested": "00113703922",
+      "name": "SAANIYA TANWAR",
+      "image_url": "https://assets.ipuranklist.com/aa93de8b-d333-4290-b34c-431d2d11323a.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "GENERAL",
+      "enrollment_tested": "08014803922",
+      "name": "KOMAL GUPTA",
+      "image_url": "https://assets.ipuranklist.com/0105f365-456d-4f5e-a683-4815e0083a6a.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "151",
+      "branch": "GENERAL",
+      "enrollment_tested": "00615103922",
+      "name": "ANSHIKA",
+      "image_url": "https://assets.ipuranklist.com/2ef1f8e4-1bb7-49f7-9368-0705bf9c5084.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "351",
+      "branch": "GENERAL",
+      "enrollment_tested": "00335103922",
+      "name": "KANIKA BHARDWAJ",
+      "image_url": "https://assets.ipuranklist.com/e6bd4993-bc9d-416f-b437-b1aba712e238.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "159",
+      "branch": "GENERAL",
+      "enrollment_tested": "00415903922",
+      "name": "KRITIKA SARAF",
+      "image_url": "https://assets.ipuranklist.com/1597c0e4-ab8c-4a45-94f2-4fdf27c3a241.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "803",
+      "branch": "GENERAL",
+      "enrollment_tested": "01280303922",
+      "name": "ARCHIE DUA",
+      "image_url": "https://assets.ipuranklist.com/80c1470a-406a-44b0-8c2e-2ed0fe1ef92a.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "170",
+      "branch": "GENERAL",
+      "enrollment_tested": "00417003922",
+      "name": "VANSHIKA",
+      "image_url": "https://assets.ipuranklist.com/b0c4f4f2-9593-4590-9a2d-0d7f762c0c9d.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "213",
+      "branch": "GENERAL",
+      "enrollment_tested": "35721303922",
+      "name": "PAYAL GARG",
+      "image_url": "https://assets.ipuranklist.com/c1a19b57-16b1-498b-86f3-18bdb5a1babe.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "166",
+      "branch": "GENERAL",
+      "enrollment_tested": "06316603922",
+      "name": "MUSKAN KHAN",
+      "image_url": "https://assets.ipuranklist.com/ffedbe34-c4b9-49f1-8c64-eb58a7c68780.jpeg"
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "191",
+      "branch": "IB",
+      "enrollment_tested": "01819114322",
+      "name": "UMESH KUMAR",
+      "image_url": "https://assets.ipuranklist.com/db84bfee-0cbd-40c4-bf3a-9081c02e57dc.jpeg"
+    },
+    {
+      "course": "bhmct",
+      "batch": "22",
+      "college_id": "110",
+      "branch": "BHMCT",
+      "enrollment_tested": "01811002222",
+      "name": "NAMAN GUPTA",
+      "image_url": "https://assets.ipuranklist.com/ed093db5-7d6f-4ee7-82a2-09c413a4062a.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "111",
+      "branch": "GENERAL",
+      "enrollment_tested": "02511104422",
+      "name": "RITIKA MALLIK",
+      "image_url": "https://assets.ipuranklist.com/85483020-c47b-48fa-8a98-a20b9e09bdc9.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "116",
+      "branch": "GENERAL",
+      "enrollment_tested": "03411604422",
+      "name": "HARSHITA GARG",
+      "image_url": "https://assets.ipuranklist.com/cd43ec6a-d3a0-4ad3-84d1-7c6d62947510.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "118",
+      "branch": "GENERAL",
+      "enrollment_tested": "06611804422",
+      "name": "MANYA JAIN",
+      "image_url": "https://assets.ipuranklist.com/78166b1c-4d0f-43ec-b680-1f391eb8d032.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "130",
+      "branch": "GENERAL",
+      "enrollment_tested": "01513004422",
+      "name": "POOJA JANA",
+      "image_url": "https://assets.ipuranklist.com/b0f8b5dc-36a8-4a93-970b-fe7ed3e3f765.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "140",
+      "branch": "GENERAL",
+      "enrollment_tested": "09914004422",
+      "name": "BHUMIKA SINGH",
+      "image_url": "https://assets.ipuranklist.com/a04fa261-25f4-45e4-a399-acc22a0ad6be.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "504",
+      "branch": "GENERAL",
+      "enrollment_tested": "00650404422",
+      "name": "HIMANK VERMA",
+      "image_url": "https://assets.ipuranklist.com/9a99384b-eeb6-4834-b55f-14d86f046823.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "GENERAL",
+      "enrollment_tested": "05217704422",
+      "name": "GATI PAREEK",
+      "image_url": "https://assets.ipuranklist.com/f957eab5-debe-4eac-b649-ff65ced47fce.jpeg"
+    },
+    {
+      "course": "mca",
+      "batch": "22",
+      "college_id": "164",
+      "branch": "SE",
+      "enrollment_tested": "01516404522",
+      "name": "SHALINI SINGH",
+      "image_url": "https://assets.ipuranklist.com/0fe11427-682b-446c-b127-3d492980c945.jpeg"
+    },
+    {
+      "course": "med",
+      "batch": "22",
+      "college_id": "699",
+      "branch": "GENERAL",
+      "enrollment_tested": "00769900122",
+      "name": "PRIYA SAXENA",
+      "image_url": "https://assets.ipuranklist.com/f23c7493-eed7-4aa9-90cb-426c6c33929f.jpeg"
+    },
+    {
+      "course": "med",
+      "batch": "22",
+      "college_id": "178",
+      "branch": "SE-ID",
+      "enrollment_tested": "00517813322",
+      "name": "MANSI GAUR",
+      "image_url": "https://assets.ipuranklist.com/0db405c1-621d-4986-bdcd-ed40c0bdd9a3.jpeg"
+    },
+    {
+      "course": "mdes",
+      "batch": "22",
+      "college_id": "182",
+      "branch": "GENERAL-451",
+      "enrollment_tested": "00218245122",
+      "name": "DHRRITHI KHNNA",
+      "image_url": "https://assets.ipuranklist.com/99ba5ee8-0bde-465e-b757-3c92d8e25b49.jpeg"
+    },
+    {
+      "course": "barch",
+      "batch": "22",
+      "college_id": "180",
+      "branch": "BARCH",
+      "enrollment_tested": "01818001622",
+      "name": "RASHI MEHROTRA",
+      "image_url": "https://assets.ipuranklist.com/d91f5de6-ef89-4b1e-bbc5-12d6bdb70e17.jpeg"
+    },
+    {
+      "course": "barch",
+      "batch": "22",
+      "college_id": "593",
+      "branch": "BARCH",
+      "enrollment_tested": "01459301622",
+      "name": "RITVIKA GOLCHHA",
+      "image_url": "https://assets.ipuranklist.com/8673fb00-50c0-4772-9477-96ac7337f884.jpeg"
+    },
+    {
+      "course": "barch",
+      "batch": "22",
+      "college_id": "173",
+      "branch": "BARCH",
+      "enrollment_tested": "01817301622",
+      "name": "KAASHVI SHARMA",
+      "image_url": "https://assets.ipuranklist.com/7c6fe173-47ae-4731-b706-6bd6db043a50.jpeg"
+    },
+    {
+      "course": "barch",
+      "batch": "22",
+      "college_id": "176",
+      "branch": "BARCH",
+      "enrollment_tested": "01917601622",
+      "name": "SETU JAIN",
+      "image_url": "https://assets.ipuranklist.com/4e553cf6-dcc5-4175-a206-5cd0e87784b3.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "215",
+      "branch": "BCOM",
+      "enrollment_tested": "00121588822",
+      "name": "SOMYA GIRATH",
+      "image_url": "https://assets.ipuranklist.com/f8285b5a-c00b-4a07-8828-a2c46cc2b4ea.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "242",
+      "branch": "BCOM",
+      "enrollment_tested": "00124288822",
+      "name": "BHAVUK SHARMA",
+      "image_url": "https://assets.ipuranklist.com/fe547fd0-369c-4024-adf6-14e1c56cb121.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "124",
+      "branch": "BCOM",
+      "enrollment_tested": "00412488822",
+      "name": "NISHIKA GOEL",
+      "image_url": "https://assets.ipuranklist.com/f26e741c-6b13-40b7-ab73-4e8086c22567.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "125",
+      "branch": "BCOM",
+      "enrollment_tested": "00512588822",
+      "name": "VEDANT RELAN",
+      "image_url": "https://assets.ipuranklist.com/c7df9287-c073-4092-badb-629a6fefc6ae.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "217",
+      "branch": "BCOM",
+      "enrollment_tested": "01521788822",
+      "name": "ANJALI",
+      "image_url": "https://assets.ipuranklist.com/fbbef777-0646-4a3a-ae94-b3c526087cfb.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "BCOM",
+      "enrollment_tested": "00190188822",
+      "name": "JAYESH GULATI",
+      "image_url": "https://assets.ipuranklist.com/35776bd6-71e2-4d5f-ae97-dccb94859ac5.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "130",
+      "branch": "BCOM",
+      "enrollment_tested": "01613088822",
+      "name": "Guru Nanak Institute Of Management",
+      "image_url": "https://assets.ipuranklist.com/c5e369b9-3ea2-4fe3-bf7c-8a0104bc5e93.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "244",
+      "branch": "BCOM",
+      "enrollment_tested": "02024488822",
+      "name": "SNEHA WADHWA",
+      "image_url": "https://assets.ipuranklist.com/df0e2f16-ef22-4e6e-a1ec-07359bbdbba6.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "903",
+      "branch": "BCOM",
+      "enrollment_tested": "01390388822",
+      "name": "HARSH BANSAL",
+      "image_url": "https://assets.ipuranklist.com/7f7480d5-9abb-492c-a86a-6b8fe493b632.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "141",
+      "branch": "BCOM",
+      "enrollment_tested": "02714188822",
+      "name": "PIYUSH GARG",
+      "image_url": "https://assets.ipuranklist.com/57c1b8f3-47f5-44cc-b6ac-cc828db7f543.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "245",
+      "branch": "BCOM",
+      "enrollment_tested": "01824588822",
+      "name": "VINITA JAIN",
+      "image_url": "https://assets.ipuranklist.com/12779fd3-714b-417c-b3a6-f3d0aa721cea.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "967",
+      "branch": "BCOM",
+      "enrollment_tested": "00496788822",
+      "name": "VANSH BHARDWAJ",
+      "image_url": "https://assets.ipuranklist.com/1eb07adf-62ae-48f2-ab52-e7e2f18b20df.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "147",
+      "branch": "BCOM",
+      "enrollment_tested": "00814788822",
+      "name": "SIDDHI AGRAWAL",
+      "image_url": "https://assets.ipuranklist.com/cf9d923c-19e2-4175-b67a-fa2248f7d67f.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "611",
+      "branch": "BCOM",
+      "enrollment_tested": "01261188822",
+      "name": "YOG MEHRA",
+      "image_url": "https://assets.ipuranklist.com/65883151-d53d-4ed3-bd7b-4c28e5dd841a.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "149",
+      "branch": "BCOM",
+      "enrollment_tested": "02914988822",
+      "name": "SARTHAK JAJU",
+      "image_url": "https://assets.ipuranklist.com/0c9543ab-1d4b-4550-983a-892da93351c3.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "206",
+      "branch": "BCOM",
+      "enrollment_tested": "02320688822",
+      "name": "ISHITA",
+      "image_url": "https://assets.ipuranklist.com/eed34550-058e-4ed6-8df5-1002c207b8c0.jpeg"
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "BCOM",
+      "enrollment_tested": "07617788822",
+      "name": "MUSKAAN JAIN",
+      "image_url": "https://assets.ipuranklist.com/4cdeb630-b019-4a6c-a98e-1ee4e6dad79a.jpeg"
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "120",
+      "branch": "BCA",
+      "enrollment_tested": "01312002022",
+      "name": "HIDA ISMAIL",
+      "image_url": "https://assets.ipuranklist.com/dfd2dffc-69fe-4839-93d7-c44066eb122e.jpeg"
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "215",
+      "branch": "BCA",
+      "enrollment_tested": "02121502022",
+      "name": "ARMAAN AGGARWAL",
+      "image_url": "https://assets.ipuranklist.com/067f5fa4-bcb7-4628-afbc-acfa4c22a4b1.jpeg"
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "242",
+      "branch": "BCA",
+      "enrollment_tested": "01024202022",
+      "name": "PRANAY KUMAR",
+      "image_url": "https://assets.ipuranklist.com/dffba0fe-5d40-4d52-b3d8-f69123ed4d2a.jpeg"
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "514",
+      "branch": "BCA",
+      "enrollment_tested": "01851402022",
+      "name": "MUSKAN",
+      "image_url": "https://assets.ipuranklist.com/fd6e87da-9064-41f8-a786-a742d6e57a00.jpeg"
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "BCA",
+      "enrollment_tested": "00290102022",
+      "name": "EKANSH VERMA",
+      "image_url": "https://assets.ipuranklist.com/f97282e0-069b-4c7c-b360-b83dad854fa5.jpeg"
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "BCA",
+      "enrollment_tested": "06317702022",
+      "name": "HARSH VASHISHTH",
+      "image_url": "https://assets.ipuranklist.com/df6db34d-0b33-4a80-9be2-e12a7ad0ba29.jpeg"
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "298",
+      "branch": "BCA",
+      "enrollment_tested": "10229802022",
+      "name": "NEHA ROCHWANI",
+      "image_url": "https://assets.ipuranklist.com/841b1191-dc45-4ad6-84bb-708c14e30228.jpeg"
+    }
+  ],
+  "without_images": [
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "514",
+      "branch": "ENGLISH",
+      "enrollment_tested": "00751421722",
+      "name": null
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "901",
+      "branch": "ENGLISH",
+      "enrollment_tested": "00490121722",
+      "name": null
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "274",
+      "branch": "JMC",
+      "enrollment_tested": "00827402422",
+      "name": null
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "170",
+      "branch": "JMC",
+      "enrollment_tested": "35917002422",
+      "name": null
+    },
+    {
+      "course": "ba",
+      "batch": "22",
+      "college_id": "213",
+      "branch": "JMC",
+      "enrollment_tested": "36221302422",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "133",
+      "branch": "AIML",
+      "enrollment_tested": "20113311622",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "AIML",
+      "enrollment_tested": "35125511622",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "160",
+      "branch": "BT",
+      "enrollment_tested": "04716001322",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "CIV",
+      "enrollment_tested": "35115603422",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "115",
+      "branch": "CSE",
+      "enrollment_tested": "20611502722",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "768",
+      "branch": "CSE",
+      "enrollment_tested": "20176802722",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "CSE",
+      "enrollment_tested": "20114802722",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "164",
+      "branch": "CSE",
+      "enrollment_tested": "40116403222",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "962",
+      "branch": "ECE",
+      "enrollment_tested": "35196202822",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "ECE",
+      "enrollment_tested": "01415602822",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "EEE",
+      "enrollment_tested": "01214807823",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "177",
+      "branch": "IOT",
+      "enrollment_tested": "02117711722",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "962",
+      "branch": "IT",
+      "enrollment_tested": "03896203122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "156",
+      "branch": "IT",
+      "enrollment_tested": "04715603122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "208",
+      "branch": "IT",
+      "enrollment_tested": "20420803122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "115",
+      "branch": "IT",
+      "enrollment_tested": "06211503122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "272",
+      "branch": "IT",
+      "enrollment_tested": "00127207723",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "768",
+      "branch": "IT",
+      "enrollment_tested": "16576803122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "132",
+      "branch": "IT",
+      "enrollment_tested": "04013203122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "IT",
+      "enrollment_tested": "03514803122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "963",
+      "branch": "IT",
+      "enrollment_tested": "00796303122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "279",
+      "branch": "IT",
+      "enrollment_tested": "00127903122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "148",
+      "branch": "ITE",
+      "enrollment_tested": "35114813122",
+      "name": null
+    },
+    {
+      "course": "btech",
+      "batch": "22",
+      "college_id": "133",
+      "branch": "ME",
+      "enrollment_tested": "00213308223",
+      "name": null
+    },
+    {
+      "course": "llb",
+      "batch": "22",
+      "college_id": "511",
+      "branch": "BBA%26LLB",
+      "enrollment_tested": "35251103522",
+      "name": null
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "166",
+      "branch": "A",
+      "enrollment_tested": "00316619822",
+      "name": null
+    },
+    {
+      "course": "mba",
+      "batch": "22",
+      "college_id": "166",
+      "branch": "WEEKEND",
+      "enrollment_tested": "02916688522",
+      "name": null
+    },
+    {
+      "course": "mplan",
+      "batch": "22",
+      "college_id": "173",
+      "branch": "MPLAN",
+      "enrollment_tested": "00417346822",
+      "name": null
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "193",
+      "branch": "BCOM",
+      "enrollment_tested": "70119388822",
+      "name": null
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "192",
+      "branch": "BCOM",
+      "enrollment_tested": "80319288822",
+      "name": null
+    },
+    {
+      "course": "bcom",
+      "batch": "22",
+      "college_id": "240",
+      "branch": "BCOM",
+      "enrollment_tested": "35424088822",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "244",
+      "branch": "BCA",
+      "enrollment_tested": "05024402022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "903",
+      "branch": "BCA",
+      "enrollment_tested": "02490302022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "137",
+      "branch": "BCA",
+      "enrollment_tested": "06313702022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "211",
+      "branch": "BCA",
+      "enrollment_tested": "03221102022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "140",
+      "branch": "BCA",
+      "enrollment_tested": "04214002022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "504",
+      "branch": "BCA",
+      "enrollment_tested": "03250402022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "142",
+      "branch": "BCA",
+      "enrollment_tested": "02914202022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "214",
+      "branch": "BCA",
+      "enrollment_tested": "03121402022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "255",
+      "branch": "BCA",
+      "enrollment_tested": "03125502022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "967",
+      "branch": "BCA",
+      "enrollment_tested": "01196702022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "144",
+      "branch": "BCA",
+      "enrollment_tested": "01514402022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "149",
+      "branch": "BCA",
+      "enrollment_tested": "08914902022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "212",
+      "branch": "BCA",
+      "enrollment_tested": "00521202022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "158",
+      "branch": "BCA",
+      "enrollment_tested": "00115802022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "247",
+      "branch": "BCA",
+      "enrollment_tested": "01024702022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "902",
+      "branch": "BCA",
+      "enrollment_tested": "05290202022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "167",
+      "branch": "BCA",
+      "enrollment_tested": "01216702022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "243",
+      "branch": "BCA",
+      "enrollment_tested": "05024302022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "206",
+      "branch": "BCA",
+      "enrollment_tested": "03020602022",
+      "name": null
+    },
+    {
+      "course": "bca",
+      "batch": "22",
+      "college_id": "240",
+      "branch": "BCA",
+      "enrollment_tested": "01824002022",
+      "name": null
+    },
+    {
+      "course": "bdes",
+      "batch": "22",
+      "college_id": "182",
+      "branch": "GENERAL-416",
+      "enrollment_tested": "03518241622",
+      "name": null
+    }
+  ],
+  "summary": {
+    "total_combinations_tested": 271,
+    "with_images": 214,
+    "without_images": 57,
+    "success_rate": "79.0%"
+  }
+}
