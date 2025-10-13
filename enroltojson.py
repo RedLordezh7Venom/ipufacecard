@@ -1,4 +1,5 @@
 #script to convert enrollment numbers to json schema, 
+
 #for further push to mongodb
 
 #name,image,college,course,batch,branch
@@ -40,5 +41,3 @@ with open('enrollments22.csv', mode='r') as file:
         with open('data.json', 'a') as f:
             json.dump(data, f)
             f.write('\n')
-
-
