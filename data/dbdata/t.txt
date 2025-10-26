@@ -1,0 +1,1 @@
+TO put student data here that has been finally scraped into txt and push into mongo
