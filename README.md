@@ -1,6 +1,6 @@
 # ipufacecard
 
-Ipufacecard is a lightweight toolkit designed to simplify the capture, management, and verification of identity "face cards" for IPU systems. Its main motive is to make creating standardized facial records fast, reproducible, and privacy-aware—so teams can collect facial imagery, attach structured metadata, and generate portable face-card artifacts without heavy infrastructure.
+Ipufacecard is a  toolkit designed to simplify the capture, management, and verification of identity "face cards" for IPU systems. Its main motive is to make creating standardized facial records fast, reproducible, and privacy-aware—so teams can collect facial imagery, attach structured metadata, and generate portable face-card artifacts without heavy infrastructure.
 
 Built for research and prototype deployments, ipufacecard favors minimal dependencies and clear data schemas to ensure portability and easy integration. The project provides simple capture scripts, configuration examples, and modular processing stages so you can connect different cameras, storage backends, or verification tools with minimal code changes. Privacy-first defaults—including optional anonymization steps and guidance on secure storage—help reduce unnecessary exposure of personal data.
 
