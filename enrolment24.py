@@ -9,7 +9,7 @@ import time
 import pandas as pd
 
 # Read CSV file
-df = pd.read_csv('data/alldata2.csv')
+df = pd.read_csv('data/filtered.csv')
 
 # URL template
 url_template = "https://www.ipuranklist.com/ranklist/{Course}?batch={batch}&insti={Collegeid}&sem=0&branch={Branch}"
@@ -23,7 +23,7 @@ chrome_options.add_argument("--no-sandbox")
 driver = webdriver.Chrome(options=chrome_options)
 
 # Output CSV
-output_file = 'enrollments24.csv'
+output_file = 'enrollments22MSIT.csv'
 with open(output_file, mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Enrollment Number", "Course", "Batch", "College ID", "Branch"])
@@ -50,7 +50,7 @@ with open(output_file, mode='w', newline='') as file:
                 writer.writerow([
                     enrollment_number,
                     row['Course'],
-                    24,
+                    22,
                     row['Collegeid'],
                     row['Branch']
                 ])
