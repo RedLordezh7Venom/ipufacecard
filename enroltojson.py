@@ -1,31 +1,79 @@
-#script to convert enrollment numbers to json schema, 
-
-#for further push to mongodb
-
-#name,image,college,course,batch,branch
-#enrollment,elo,matches,gender
-#--------------------------------
-#elo is 1200 for all, gender None for now, matches 0 for all
-#name : from scraped page, extract regex for name 
-#image  : extract url
-# course ,batch ,branch,enrollment,college  from csv
-
-import json
 import csv
+import json
+import os
+from dotenv import load_dotenv
+from extract_student_image import extract_student_image_and_name
 
-from extract_student_image import extract_student_image_and_name    
+load_dotenv()
+# --------- 1️⃣  Groq client ---------------------------------
+# Make sure you have installed: pip install groq
+# and set your API key either as an env var or hard‑code it here.
+try:
+    from groq import Groq
+except ImportError:
+    raise RuntimeError(
+        "The Groq Python library is required. Install it with:\n"
+        "    pip install groq"
+    )
 
-with open('enrollments22.csv', mode='r') as file:
+# Prefer environment variable, but you can also hard‑code for quick testing
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+if not GROQ_API_KEY:
+    raise RuntimeError(
+        "GROQ_API_KEY not found. Set it in your environment, e.g.:\n"
+        "    export GROQ_API_KEY='your‑key-here'"
+    )
+
+groq_client = Groq(api_key=GROQ_API_KEY)
+
+# --------- 2️⃣  Helper to detect gender ---------------------
+def detect_gender_from_name(name: str) -> str | None:
+    """
+    Uses Groq’s llama‑8.1‑8b to determine the gender of a name.
+    Returns one of: 'male', 'female', or None for ambiguous/unknown.
+    """
+    # A short prompt that is unlikely to trigger hallucinations
+    prompt = (
+        f"Given the full name '{name}', answer with only one of the words: "
+        "'male', 'female', or 'unknown'. Do not add any additional text."
+    )
+
+    try:
+        response = groq_client.chat.completions.create(
+            model="llama-8.1-8b",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.0,          # deterministic answer
+            max_tokens=10,             # we expect a short reply
+            stop=None,
+        )
+        # The response comes back as a list of choices; take the first token
+        gender_raw = response.choices[0].message.content.strip().lower()
+
+        # Normalise the output
+        if gender_raw in {"male", "female"}:
+            return gender_raw
+        return None
+
+    except Exception as exc:  # pragma: no cover
+        # Log the exception if you have a logger; here we just print
+        print(f"[WARN] Gender detection failed for '{name}': {exc}")
+        return None
+
+# --------- 3️⃣  Main loop -------------------------------------
+with open("enrollments22MSIT.csv", mode="r", newline="", encoding="utf-8") as file:
     reader = csv.reader(file)
+    # Skip header if present (uncomment the next line)
+    # next(reader, None)
+
     for row in reader:
-        image,name = extract_student_image_and_name(row[0])
-        college = row[3]
-        course = row[1]
-        batch = row[2]
-        branch = row[4]
-        enrollment = row[0]
-        
-    #append to json
+        # Assuming CSV layout: enrollment,course,batch,college,branch
+        enrollment, course, batch, college, branch = row[0:5]
+
+        image, name = extract_student_image_and_name(enrollment)
+
+        # Detect gender
+        gender = detect_gender_from_name(name)
+
         data = {
             "name": name,
             "image": image,
@@ -36,8 +84,11 @@ with open('enrollments22.csv', mode='r') as file:
             "enrollment": enrollment,
             "elo": 1200,
             "matches": 0,
-            "gender": None
+            "gender": gender,
         }
-        with open('data.json', 'a') as f:
-            json.dump(data, f)
-            f.write('\n')
+
+        # Append a JSON line per student
+        with open("dataMSIT.json", mode="a", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False)
+            f.write("\n")
+
