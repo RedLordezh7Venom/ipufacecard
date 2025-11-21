@@ -9,7 +9,7 @@ import time
 import pandas as pd
 
 # Read CSV file
-df = pd.read_csv('data/filtered.csv')
+df = pd.read_csv('filtered.csv')
 
 # URL template
 url_template = "https://www.ipuranklist.com/ranklist/{Course}?batch={batch}&insti={Collegeid}&sem=0&branch={Branch}"
