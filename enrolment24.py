@@ -23,7 +23,7 @@ chrome_options.add_argument("--no-sandbox")
 driver = webdriver.Chrome(options=chrome_options)
 
 # Output CSV
-output_file = 'enrollments22MSIT.csv'
+output_file = 'enrollments23MSIT.csv'
 with open(output_file, mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Enrollment Number", "Course", "Batch", "College ID", "Branch"])
@@ -32,7 +32,7 @@ with open(output_file, mode='w', newline='') as file:
     for idx, row in df.iterrows():
         url = url_template.format(
             Course=row['Course'],
-            batch=24,
+            batch=23,
             Collegeid=row['Collegeid'],
             Branch=row['Branch']
         )
@@ -50,7 +50,7 @@ with open(output_file, mode='w', newline='') as file:
                 writer.writerow([
                     enrollment_number,
                     row['Course'],
-                    22,
+                    23,
                     row['Collegeid'],
                     row['Branch']
                 ])
