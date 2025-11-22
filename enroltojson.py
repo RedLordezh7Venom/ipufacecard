@@ -2,7 +2,7 @@ import csv
 import json
 import os
 from dotenv import load_dotenv
-from extract_student_image import extract_student_image_and_name
+from extract_student_image import extract_student_image_and_name,ProxyScraper
 import time
 
 load_dotenv()
@@ -60,6 +60,7 @@ def detect_gender_from_name(name: str) -> str | None:
         print(f"[WARN] Gender detection failed for '{name}': {exc}")
         return None
 
+#scraper = ProxyScraper(max_workers = 5)
 # --------- 3️⃣  Main loop -------------------------------------
 with open("enrollments22MSIT.csv", mode="r", newline="", encoding="utf-8") as file:
     reader = csv.reader(file)
@@ -74,7 +75,6 @@ with open("enrollments22MSIT.csv", mode="r", newline="", encoding="utf-8") as fi
         branch = row[4]
         enrollment = row[0]
 
-        time.sleep(1.2)
         image, name = extract_student_image_and_name(row[0])
 
         # Detect gender
