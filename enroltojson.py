@@ -40,7 +40,7 @@ def detect_gender_from_name(name: str) -> str | None:
 
     try:
         response = groq_client.chat.completions.create(
-            model="llama-8.1-8b",
+            model="llama-3.1-8b-instant",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.0,          # deterministic answer
             max_tokens=10,             # we expect a short reply
@@ -67,9 +67,13 @@ with open("enrollments22MSIT.csv", mode="r", newline="", encoding="utf-8") as fi
 
     for row in reader:
         # Assuming CSV layout: enrollment,course,batch,college,branch
-        enrollment, course, batch, college, branch = row[0:5]
+        college = row[3]
+        course = row[1]
+        batch = row[2]
+        branch = row[4]
+        enrollment = row[0]
 
-        image, name = extract_student_image_and_name(enrollment)
+        image, name = extract_student_image_and_name(row[0])
 
         # Detect gender
         gender = detect_gender_from_name(name)
