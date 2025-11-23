@@ -62,7 +62,7 @@ def detect_gender_from_name(name: str) -> str | None:
 
 #scraper = ProxyScraper(max_workers = 5)
 # --------- 3️⃣  Main loop -------------------------------------
-with open("enrollments23MSIT.csv", mode="r", newline="", encoding="utf-8") as file:
+with open("enrollments24MSIT.csv", mode="r", newline="", encoding="utf-8") as file:
     reader = csv.reader(file)
     # Skip header if present (uncomment the next line)
     # next(reader, None)
